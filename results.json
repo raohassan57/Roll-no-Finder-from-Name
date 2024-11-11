@@ -1,0 +1,7647 @@
+[
+  {
+    "rollNumber": 100001,
+    "name": "GHULAM FATIMA",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 100002,
+    "name": "FARAH SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100003,
+    "name": "ZAINAB JAVAID",
+    "fatherName": "MUHAMMAD JAVAID"
+  },
+  {
+    "rollNumber": 100004,
+    "name": "ANSA BASHEER",
+    "fatherName": "BASHEER AHMAD"
+  },
+  {
+    "rollNumber": 100006,
+    "name": "ALIA YOUSAF",
+    "fatherName": "MUHAMMAD YOUSAF"
+  },
+  {
+    "rollNumber": 100007,
+    "name": "SHUMAILA",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100008,
+    "name": "ANDLEEB TAHIR",
+    "fatherName": "TAHIR NAZIR"
+  },
+  {
+    "rollNumber": 100009,
+    "name": "MAQSUDAN",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100010,
+    "name": "MEHAK FATIMA",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100011,
+    "name": "NOREEN",
+    "fatherName": "ZAHID IQBAL"
+  },
+  {
+    "rollNumber": 100012,
+    "name": "AQSA NISAR",
+    "fatherName": "NISAR AHMAD"
+  },
+  {
+    "rollNumber": 100013,
+    "name": "AMINA AJMAL",
+    "fatherName": "AJMAL HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100014,
+    "name": "ANSA ZUBAIR",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 100015,
+    "name": "AQSA AZIZ",
+    "fatherName": "ABDUL AZIZ"
+  },
+  {
+    "rollNumber": 100016,
+    "name": "ALEEZA JAVAID",
+    "fatherName": "JAVAID IQBAL"
+  },
+  {
+    "rollNumber": 100017,
+    "name": "ALIZA HUSSAIN",
+    "fatherName": "MUHAMMAD HUSSAIN AYAZ"
+  },
+  {
+    "rollNumber": 100018,
+    "name": "RIDA LATIFE",
+    "fatherName": "MUHAMMAD LATIF"
+  },
+  {
+    "rollNumber": 100019,
+    "name": "SHEHZEEN FATIMA",
+    "fatherName": "KASHIF IMRAN"
+  },
+  {
+    "rollNumber": 100020,
+    "name": "ALIZA",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100021,
+    "name": "NIMRA RIAZ",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 100022,
+    "name": "ALISHA MINAHIL",
+    "fatherName": "MUHAMMAD AMIEEN"
+  },
+  {
+    "rollNumber": 100023,
+    "name": "MEHWISH",
+    "fatherName": "MUHAMMAD GHAFFAR"
+  },
+  {
+    "rollNumber": 100024,
+    "name": "ZAINAB QAYYUM",
+    "fatherName": "ABDUL QAYYUM"
+  },
+  {
+    "rollNumber": 100025,
+    "name": "FIZA ALI",
+    "fatherName": "ALI SHER"
+  },
+  {
+    "rollNumber": 100026,
+    "name": "KASHAF IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100027,
+    "name": "JAWARIA",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 100028,
+    "name": "AYESHA WAHEED",
+    "fatherName": "WAHEED"
+  },
+  {
+    "rollNumber": 100029,
+    "name": "RASHIDA PARVEEN",
+    "fatherName": "MUHAMMAD BAKHSH"
+  },
+  {
+    "rollNumber": 100030,
+    "name": "SADIA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100031,
+    "name": "MALAIKA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100032,
+    "name": "ALEEZA BIBI",
+    "fatherName": "AKBAR ALI"
+  },
+  {
+    "rollNumber": 100033,
+    "name": "AMINA BIBI",
+    "fatherName": "MUHAMMMAD ARSHAD ALI"
+  },
+  {
+    "rollNumber": 100034,
+    "name": "HUMA",
+    "fatherName": "MUHAMMAD NAEEM"
+  },
+  {
+    "rollNumber": 100035,
+    "name": "ANEEQA NADEEM",
+    "fatherName": "MUHAMMAD ASIF NADEEM"
+  },
+  {
+    "rollNumber": 100036,
+    "name": "AMINA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL AHMAD"
+  },
+  {
+    "rollNumber": 100037,
+    "name": "ZAINAB BIBI",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 100038,
+    "name": "AYESHA",
+    "fatherName": "INTIZAR ALI"
+  },
+  {
+    "rollNumber": 100039,
+    "name": "SANA BIBI",
+    "fatherName": "SANAULLAH"
+  },
+  {
+    "rollNumber": 100040,
+    "name": "KOMAL",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100041,
+    "name": "MARIUM",
+    "fatherName": "ZULFIQAR ALI KANWAL"
+  },
+  {
+    "rollNumber": 100042,
+    "name": "JAVEIRA",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 100043,
+    "name": "NIMRA SHAHEEN",
+    "fatherName": "ALAM GHEER"
+  },
+  {
+    "rollNumber": 100044,
+    "name": "SAIRA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100045,
+    "name": "MAHAM LIAQAT",
+    "fatherName": "MUHAMMAD LIAQAT RAZA"
+  },
+  {
+    "rollNumber": 100046,
+    "name": "AREESHA",
+    "fatherName": "FALAK SHER"
+  },
+  {
+    "rollNumber": 100047,
+    "name": "ZAHRA FATIMA",
+    "fatherName": "MUHAMMAD ASHIQ"
+  },
+  {
+    "rollNumber": 100048,
+    "name": "MEHAK SHAN",
+    "fatherName": "NASHAN ALI"
+  },
+  {
+    "rollNumber": 100049,
+    "name": "BISMA SHAHBAZ",
+    "fatherName": "MUHAMMAD SHAHBAZ"
+  },
+  {
+    "rollNumber": 100050,
+    "name": "EMAN FATIMA",
+    "fatherName": "RAJA MUHAMMAD SAEED"
+  },
+  {
+    "rollNumber": 100051,
+    "name": "FARIA RUKHSAR",
+    "fatherName": "RAZZAQ MASEH"
+  },
+  {
+    "rollNumber": 100052,
+    "name": "MAH NOOR",
+    "fatherName": "MUHAMMAD AKHTAR"
+  },
+  {
+    "rollNumber": 100053,
+    "name": "FATIMA RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 100054,
+    "name": "ALISHA SHEHZADI",
+    "fatherName": "SABIR HUSSAIN"
+  },
+  {
+    "rollNumber": 100055,
+    "name": "HIJAB JANNAT",
+    "fatherName": "JAFFER ALI"
+  },
+  {
+    "rollNumber": 100056,
+    "name": "ABEEHA SULTAN",
+    "fatherName": "SULTAN BASHIR"
+  },
+  {
+    "rollNumber": 100057,
+    "name": "SADIA",
+    "fatherName": "MUHAMMAD SHAREEF"
+  },
+  {
+    "rollNumber": 100058,
+    "name": "SYED IMAN FATIMA",
+    "fatherName": "MUHAMMAD NAEEM"
+  },
+  {
+    "rollNumber": 100059,
+    "name": "SIDRA ANJUM",
+    "fatherName": "MUHAMMAD RAMZAN ANJUM"
+  },
+  {
+    "rollNumber": 100060,
+    "name": "KASHAF",
+    "fatherName": "M ABRAR"
+  },
+  {
+    "rollNumber": 100063,
+    "name": "HAFIZA MARYAM TARIQ",
+    "fatherName": "TARIQ JAVEED"
+  },
+  {
+    "rollNumber": 100064,
+    "name": "RIFAT PARVEEN",
+    "fatherName": "MANZOOR HUSSAIN"
+  },
+  {
+    "rollNumber": 100065,
+    "name": "UMAIRA SHAFIQUE",
+    "fatherName": "MUHAMMAD SHAFIQUE"
+  },
+  {
+    "rollNumber": 100066,
+    "name": "AQSA BIBI",
+    "fatherName": "MUHAMMAD ARSHAAD"
+  },
+  {
+    "rollNumber": 100068,
+    "name": "LARAIB SYED",
+    "fatherName": "SYED ABID HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100069,
+    "name": "FIZA TALIB",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 100070,
+    "name": "AYESHA",
+    "fatherName": "MUHAMMAD MUKHTAR"
+  },
+  {
+    "rollNumber": 100071,
+    "name": "AMEERAB BIBI",
+    "fatherName": "MUHAMMAD AKBAR"
+  },
+  {
+    "rollNumber": 100072,
+    "name": "SAMAN NAZ",
+    "fatherName": "ASGHAR ALI"
+  },
+  {
+    "rollNumber": 100073,
+    "name": "HUMNA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100074,
+    "name": "AFSHAN RASHEED",
+    "fatherName": "ABDUL RASHEED"
+  },
+  {
+    "rollNumber": 100075,
+    "name": "SABA BIBI",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 100076,
+    "name": "HAIQA HABIB",
+    "fatherName": "HABIB ASGHAR"
+  },
+  {
+    "rollNumber": 100077,
+    "name": "AMAN FATIMA",
+    "fatherName": "DILDAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100078,
+    "name": "ALIYA SHAHEEN",
+    "fatherName": "SHAUKAT ALI"
+  },
+  {
+    "rollNumber": 100079,
+    "name": "NISHA FATIMA",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100080,
+    "name": "NOSHEEN SAHAR",
+    "fatherName": "MUHAMMAD IRSHAD"
+  },
+  {
+    "rollNumber": 100081,
+    "name": "SAMREEN",
+    "fatherName": "ZULFQAR ALI"
+  },
+  {
+    "rollNumber": 100082,
+    "name": "KHANSA  BATOOL",
+    "fatherName": "ASS MUHAMMAD"
+  },
+  {
+    "rollNumber": 100083,
+    "name": "AYESHA BIBI",
+    "fatherName": "QASIM ALI"
+  },
+  {
+    "rollNumber": 100084,
+    "name": "ALEENA ALI",
+    "fatherName": "ALI NAWAZ"
+  },
+  {
+    "rollNumber": 100085,
+    "name": "AYESHA ZULFQAR",
+    "fatherName": "ZULQAR ALI"
+  },
+  {
+    "rollNumber": 100086,
+    "name": "FIZA",
+    "fatherName": "IRSHAD ALI"
+  },
+  {
+    "rollNumber": 100087,
+    "name": "ZANIB BIBI",
+    "fatherName": "CHUDHRY ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100088,
+    "name": "KAINAT",
+    "fatherName": "FALAK SHAIR"
+  },
+  {
+    "rollNumber": 100089,
+    "name": "JAVERIA  NUSERALLA",
+    "fatherName": "NUSERALLA"
+  },
+  {
+    "rollNumber": 100090,
+    "name": "ROBINA IJAZ",
+    "fatherName": "MUHAMMAD IJAZ AKHTAR"
+  },
+  {
+    "rollNumber": 100091,
+    "name": "SOBIA NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100092,
+    "name": "JAVERIA BAGHAM",
+    "fatherName": "MAZHAR IQBAL"
+  },
+  {
+    "rollNumber": 100093,
+    "name": "AAINA",
+    "fatherName": "BHOLA MASIH"
+  },
+  {
+    "rollNumber": 100094,
+    "name": "AZKA FATIMA",
+    "fatherName": "SADI AHMAD"
+  },
+  {
+    "rollNumber": 100095,
+    "name": "EMAN FATIMA",
+    "fatherName": "SHABIR HUSSIN"
+  },
+  {
+    "rollNumber": 100096,
+    "name": "SYEDA ZAHRA MUZAMIL",
+    "fatherName": "SYED MUZAMIL HUSSAIN"
+  },
+  {
+    "rollNumber": 100097,
+    "name": "SAKHUN ZAHRA AZHAR",
+    "fatherName": "MUHAMMAD AZHAR"
+  },
+  {
+    "rollNumber": 100098,
+    "name": "FARYAL AHSAN KHAN",
+    "fatherName": "MUHAMMAD AHSAN"
+  },
+  {
+    "rollNumber": 100099,
+    "name": "MARYAM SHOUKET",
+    "fatherName": "SHOUKET ALI"
+  },
+  {
+    "rollNumber": 100100,
+    "name": "SADIA SAKHI",
+    "fatherName": "SAKHI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100101,
+    "name": "KIRAN ZULFIQAR",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100102,
+    "name": "TAYYBA ZAFAR",
+    "fatherName": "ZAFAR ALI"
+  },
+  {
+    "rollNumber": 100103,
+    "name": "WAQIHA SAHER",
+    "fatherName": "SAGEER AHMED"
+  },
+  {
+    "rollNumber": 100104,
+    "name": "MAHREEN FATIMA",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100105,
+    "name": "FATIMA ASGHER",
+    "fatherName": "ASGHER ALI"
+  },
+  {
+    "rollNumber": 100106,
+    "name": "ZAINAB ALWAFA",
+    "fatherName": "MUHAMMAD IMRAN"
+  },
+  {
+    "rollNumber": 100107,
+    "name": "ISHRAT FATIMA",
+    "fatherName": "MUHAMMAD SHAHBAZ"
+  },
+  {
+    "rollNumber": 100108,
+    "name": "SAIRA ASLAM",
+    "fatherName": "ASLAM MASIH"
+  },
+  {
+    "rollNumber": 100109,
+    "name": "MUBINA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100110,
+    "name": "ZOYA AZHAR",
+    "fatherName": "AZHAR HASSAN NADEEM"
+  },
+  {
+    "rollNumber": 100111,
+    "name": "LAIBA BIBI",
+    "fatherName": "NOOR DIN"
+  },
+  {
+    "rollNumber": 100112,
+    "name": "FATIMA",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100113,
+    "name": "SHAKEELA BIBI",
+    "fatherName": "MUKHTAR AHMAD"
+  },
+  {
+    "rollNumber": 100114,
+    "name": "FARISHTA BIBI",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 100115,
+    "name": "SHAHEEN BIBI",
+    "fatherName": "SHAH MUHAMMAD"
+  },
+  {
+    "rollNumber": 100116,
+    "name": "ZUHA FATIMA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100117,
+    "name": "NIDA FATIMA",
+    "fatherName": "SAJJAD RAZA"
+  },
+  {
+    "rollNumber": 100118,
+    "name": "ZUBAIDA BIBI",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100119,
+    "name": "ZUNAIRA",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 100120,
+    "name": "HINA ISLAM",
+    "fatherName": "MUHAMMAD ISLAM"
+  },
+  {
+    "rollNumber": 100121,
+    "name": "PERSIKLA SAFDAR",
+    "fatherName": "SAFDAR MASIH"
+  },
+  {
+    "rollNumber": 100122,
+    "name": "SAMREEN  SHAREEF",
+    "fatherName": "MUHAMMAD SHAREEF"
+  },
+  {
+    "rollNumber": 100123,
+    "name": "SABA MUBEEN",
+    "fatherName": "MUHAMMAD SAEED"
+  },
+  {
+    "rollNumber": 100124,
+    "name": "HIRA AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100125,
+    "name": "IQRA",
+    "fatherName": "MUHAMMAD AMJAD"
+  },
+  {
+    "rollNumber": 100127,
+    "name": "LAIBA DUA",
+    "fatherName": "SYED ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 100128,
+    "name": "HUMA FATIMA",
+    "fatherName": "AZEEMULLAH"
+  },
+  {
+    "rollNumber": 100129,
+    "name": "SAIMA KAUSAR",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 100130,
+    "name": "MEHAK NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100131,
+    "name": "ALISHBA ZAFAR",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100132,
+    "name": "AMNA BATOOL",
+    "fatherName": "ALI AKBAR"
+  },
+  {
+    "rollNumber": 100133,
+    "name": "NOOR FATIMA",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 100134,
+    "name": "MUZDALFA IJAZ",
+    "fatherName": "IJAZ AHMAD"
+  },
+  {
+    "rollNumber": 100135,
+    "name": "MEMONA",
+    "fatherName": "ASGHAR ALI"
+  },
+  {
+    "rollNumber": 100136,
+    "name": "ASRA",
+    "fatherName": "MUHAMMAD SHAFIQUE"
+  },
+  {
+    "rollNumber": 100137,
+    "name": "NOOR FATIMA",
+    "fatherName": "KHALID WADOOD"
+  },
+  {
+    "rollNumber": 100138,
+    "name": "ASMA MUNIR",
+    "fatherName": "MUNIR HUSSAIN"
+  },
+  {
+    "rollNumber": 100139,
+    "name": "AYESHA KIRAN",
+    "fatherName": "ABDUL RAZAQ"
+  },
+  {
+    "rollNumber": 100140,
+    "name": "ROZEENA BIBI",
+    "fatherName": "MUHAMMAD BAIG"
+  },
+  {
+    "rollNumber": 100141,
+    "name": "MEHRUNISA",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100142,
+    "name": "KANZA BAHADAR",
+    "fatherName": "MALIK BHADUR ALI"
+  },
+  {
+    "rollNumber": 100143,
+    "name": "MAHJABEEN",
+    "fatherName": "MUHAMMAD JAVED"
+  },
+  {
+    "rollNumber": 100144,
+    "name": "SADIA JAMSHAD",
+    "fatherName": "MUHAMMAD JAMSHAD"
+  },
+  {
+    "rollNumber": 100145,
+    "name": "ALEEZA HASSAN GILLANI",
+    "fatherName": "SYED NASIR HASSAN GILLANI"
+  },
+  {
+    "rollNumber": 100146,
+    "name": "SUMBAL BIBI",
+    "fatherName": "MUHAMMAD MANZOOR"
+  },
+  {
+    "rollNumber": 100147,
+    "name": "MUBASHARA RANI",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100148,
+    "name": "AMNA TARIQ",
+    "fatherName": "TARIQ WASEEM"
+  },
+  {
+    "rollNumber": 100149,
+    "name": "MINAHIL ZAMEER",
+    "fatherName": "ZAMEER HAIDER"
+  },
+  {
+    "rollNumber": 100150,
+    "name": "MAHNOOR AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100151,
+    "name": "GHAZALA PARVAIZ",
+    "fatherName": "KHALID PARVAIZ"
+  },
+  {
+    "rollNumber": 100152,
+    "name": "SAMREEN KHALID",
+    "fatherName": "KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 100153,
+    "name": "FAZILAT BIBI",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100154,
+    "name": "LAIBA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100155,
+    "name": "NABEELA",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100156,
+    "name": "AYESHA MUMTAZ",
+    "fatherName": "MUMTAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 100157,
+    "name": "SONIA SALAMAT",
+    "fatherName": "SALAMAT ALI"
+  },
+  {
+    "rollNumber": 100158,
+    "name": "NOOR HIRA",
+    "fatherName": "ABDUL JABBAR"
+  },
+  {
+    "rollNumber": 100159,
+    "name": "MUBASHARA",
+    "fatherName": "LAIQAT ALI"
+  },
+  {
+    "rollNumber": 100160,
+    "name": "KHADIJA JAVEED",
+    "fatherName": "MUHAMMAD JAVEED"
+  },
+  {
+    "rollNumber": 100161,
+    "name": "HUMAIRA",
+    "fatherName": "NAEEM AKHTAR"
+  },
+  {
+    "rollNumber": 100162,
+    "name": "NIMRAH UMER",
+    "fatherName": "UMER HAYYAT"
+  },
+  {
+    "rollNumber": 100163,
+    "name": "MARIAM MAQSOOD",
+    "fatherName": "MUHAMMAD MAQSOOD"
+  },
+  {
+    "rollNumber": 100164,
+    "name": "NIMRA RAUF",
+    "fatherName": "HAFIZ ABDUL RAUF"
+  },
+  {
+    "rollNumber": 100165,
+    "name": "MARYAM MUNAWAR",
+    "fatherName": "MUNAWAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100166,
+    "name": "HIJAB FATIMA",
+    "fatherName": "MUHAMMAD HANIF"
+  },
+  {
+    "rollNumber": 100167,
+    "name": "RUMAN",
+    "fatherName": "SHABBIR HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100168,
+    "name": "HAMNA  HABIB",
+    "fatherName": "HABIB  ASGHAR"
+  },
+  {
+    "rollNumber": 100169,
+    "name": "AQSA TAHIR",
+    "fatherName": "ABDUL HAMEED"
+  },
+  {
+    "rollNumber": 100170,
+    "name": "AMNA SABAR",
+    "fatherName": "MUHAMMAD SABAR"
+  },
+  {
+    "rollNumber": 100171,
+    "name": "MALIKA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100172,
+    "name": "JAWARIA BIBI",
+    "fatherName": "MUHAMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 100173,
+    "name": "SIBGHA SAEED",
+    "fatherName": "SAEED AKHTAR"
+  },
+  {
+    "rollNumber": 100174,
+    "name": "SYEDA ANEESA ALI",
+    "fatherName": "SYED MUHAMMAD ALI SHAH"
+  },
+  {
+    "rollNumber": 100175,
+    "name": "RIMSHA NAZIR",
+    "fatherName": "NAZIR AHMAD JIA"
+  },
+  {
+    "rollNumber": 100176,
+    "name": "AMNA SHEHZADI",
+    "fatherName": "ZAKA ULLAH"
+  },
+  {
+    "rollNumber": 100177,
+    "name": "MUQDAS SEHAR",
+    "fatherName": "ABDUL GHAFAR"
+  },
+  {
+    "rollNumber": 100178,
+    "name": "ABIHA ASIF",
+    "fatherName": "MUHAMMAD ASIF HAMEED"
+  },
+  {
+    "rollNumber": 100179,
+    "name": "ROMAISHA SULTAN",
+    "fatherName": "MUHAMMAD SULTAN"
+  },
+  {
+    "rollNumber": 100180,
+    "name": "SARA NAEEM",
+    "fatherName": "MUHAMMAD NAEEM"
+  },
+  {
+    "rollNumber": 100181,
+    "name": "KAINAT",
+    "fatherName": "GHULAM NABI"
+  },
+  {
+    "rollNumber": 100182,
+    "name": "FAIQA",
+    "fatherName": "MUHAMMAD SHOAIB"
+  },
+  {
+    "rollNumber": 100183,
+    "name": "UMM E AMMARA",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100184,
+    "name": "MEMONA",
+    "fatherName": "GULZAR AHMED"
+  },
+  {
+    "rollNumber": 100185,
+    "name": "SARA NAEEM",
+    "fatherName": "MUHAMMAD NAEEM CHAUDHRY"
+  },
+  {
+    "rollNumber": 100186,
+    "name": "SHAGUFTA BIBI",
+    "fatherName": "IMDAD ALI"
+  },
+  {
+    "rollNumber": 100187,
+    "name": "SAFIA BIBI",
+    "fatherName": "MUHAMMAD AZAM"
+  },
+  {
+    "rollNumber": 100188,
+    "name": "RIDA SHER",
+    "fatherName": "SHER ALI"
+  },
+  {
+    "rollNumber": 100189,
+    "name": "NATASHA MUMTAZ",
+    "fatherName": "MUMTAZ AHMED"
+  },
+  {
+    "rollNumber": 100190,
+    "name": "ZAINAB NUSRAT",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100191,
+    "name": "ALIYA SHAHZADI",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100192,
+    "name": "ESHAL RASOOL",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 100193,
+    "name": "NIMRA NAZIR",
+    "fatherName": "NAZIR AHMAD"
+  },
+  {
+    "rollNumber": 100194,
+    "name": "ALEEZA BIBI",
+    "fatherName": "MUHAMMAD RAZA HASSAN"
+  },
+  {
+    "rollNumber": 100196,
+    "name": "TAYYABA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100197,
+    "name": "NABILA TUFAIL",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100198,
+    "name": "AMNA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100199,
+    "name": "UROOJ FATIMA",
+    "fatherName": "MATLOOB AHMAD"
+  },
+  {
+    "rollNumber": 100200,
+    "name": "NOSHEEN",
+    "fatherName": "SHAMSHER"
+  },
+  {
+    "rollNumber": 100201,
+    "name": "FIZA MAQSOOD",
+    "fatherName": "MAQSOOD AHMAD"
+  },
+  {
+    "rollNumber": 100202,
+    "name": "MANAHIL MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100203,
+    "name": "AMINA IJAZ",
+    "fatherName": "IJAZ AHMAD"
+  },
+  {
+    "rollNumber": 100204,
+    "name": "NITA NAZISH",
+    "fatherName": "GHULAM NABI"
+  },
+  {
+    "rollNumber": 100205,
+    "name": "SARA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100206,
+    "name": "RAFIA QAYYUM",
+    "fatherName": "ABDUL QAYYUM"
+  },
+  {
+    "rollNumber": 100207,
+    "name": "HUMERA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100208,
+    "name": "MIRHA WAHEED",
+    "fatherName": "ABDUL WAHEED"
+  },
+  {
+    "rollNumber": 100209,
+    "name": "SHUMAILA",
+    "fatherName": "MUHAMMAD ZAKRAN"
+  },
+  {
+    "rollNumber": 100210,
+    "name": "ISHRAT BIBI",
+    "fatherName": "ZAHEER IQBAL"
+  },
+  {
+    "rollNumber": 100211,
+    "name": "AREEBA BANO",
+    "fatherName": "MUHAMMAD YAQOOB"
+  },
+  {
+    "rollNumber": 100212,
+    "name": "AYESHA MEHMOOD",
+    "fatherName": "MEHMOOD KHAN"
+  },
+  {
+    "rollNumber": 100213,
+    "name": "SUMAYYA FATIMA",
+    "fatherName": "GHULAM AKBAR"
+  },
+  {
+    "rollNumber": 100214,
+    "name": "EMAN FATIMA",
+    "fatherName": "MUHAMMAD SHARIF"
+  },
+  {
+    "rollNumber": 100215,
+    "name": "SHAISTA SHAHEEN",
+    "fatherName": "SANA UL ALLAH"
+  },
+  {
+    "rollNumber": 100216,
+    "name": "FATIMA QURA TUL AIN",
+    "fatherName": "MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 100217,
+    "name": "RIMSHA RASHEED",
+    "fatherName": "ABDUL RASHEED"
+  },
+  {
+    "rollNumber": 100218,
+    "name": "SANTHIA",
+    "fatherName": "AMEER MASIH"
+  },
+  {
+    "rollNumber": 100219,
+    "name": "MIRZAL KALSOOM",
+    "fatherName": "AMANAT ALI"
+  },
+  {
+    "rollNumber": 100220,
+    "name": "AMARA YOUNAS",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 100221,
+    "name": "NOSHEEN FATIMA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100222,
+    "name": "ADEELA",
+    "fatherName": "ABDUL RAHEEM GOHAR"
+  },
+  {
+    "rollNumber": 100223,
+    "name": "NIMRA",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100224,
+    "name": "MALAIKA MEHMOOD",
+    "fatherName": "TARIQ MEHMOOD"
+  },
+  {
+    "rollNumber": 100225,
+    "name": "BISMA",
+    "fatherName": "MUHAMMAD BASHIR"
+  },
+  {
+    "rollNumber": 100226,
+    "name": "ESHA",
+    "fatherName": "MUHAMMAD YAHYYA"
+  },
+  {
+    "rollNumber": 100227,
+    "name": "SANIA SULTAN",
+    "fatherName": "MUHAMMAD SULTAN"
+  },
+  {
+    "rollNumber": 100228,
+    "name": "EMAN ZAHRA",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100229,
+    "name": "SHUMAIZA TARIQ",
+    "fatherName": "MUHAMMAD TARIQ JAVEED"
+  },
+  {
+    "rollNumber": 100230,
+    "name": "JAVERIA MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100231,
+    "name": "FATIMA",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100232,
+    "name": "AROOJ FATIMA",
+    "fatherName": "NAEEM AKHTAR"
+  },
+  {
+    "rollNumber": 100233,
+    "name": "UME FARWA",
+    "fatherName": "INTIZAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100234,
+    "name": "ALEEZA",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100235,
+    "name": "MEHWISH ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100236,
+    "name": "RABIA AZAM",
+    "fatherName": "AZAM ALI"
+  },
+  {
+    "rollNumber": 100237,
+    "name": "TAHIRA BIBI",
+    "fatherName": "AMANAT ALI"
+  },
+  {
+    "rollNumber": 100238,
+    "name": "SABA JAVED",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100239,
+    "name": "AYESHA BIBI",
+    "fatherName": "ZULEFQAR ALI"
+  },
+  {
+    "rollNumber": 100240,
+    "name": "NIDA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100241,
+    "name": "HANIFAN BIBI",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100242,
+    "name": "TAIBA FATIMA",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100243,
+    "name": "EMAN FATIMA",
+    "fatherName": "BABU NADEEM"
+  },
+  {
+    "rollNumber": 100244,
+    "name": "UMNA IMRAN",
+    "fatherName": "MUHAMMAD IMRAN"
+  },
+  {
+    "rollNumber": 100245,
+    "name": "TAYYBA AZEEM",
+    "fatherName": "MUHAMMAD AZEEM"
+  },
+  {
+    "rollNumber": 100246,
+    "name": "ESHA YOUNAS",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 100247,
+    "name": "MUSKAN FATIMA",
+    "fatherName": "ZAFAR IQBAL NASIR BODLA"
+  },
+  {
+    "rollNumber": 100248,
+    "name": "UME RUBAB",
+    "fatherName": "PERVAIZ IQBAL"
+  },
+  {
+    "rollNumber": 100249,
+    "name": "AYESHA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100250,
+    "name": "SYEDA FATIMA",
+    "fatherName": "SYED TAJJMAL HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100251,
+    "name": "SHANILA NAZISH",
+    "fatherName": "MUHAMMAD ASHFAQ"
+  },
+  {
+    "rollNumber": 100252,
+    "name": "SYEDA ANAMTA SOHAIL JAFFRI",
+    "fatherName": "SYED SOHAIL ARJOMAND JAFFRI"
+  },
+  {
+    "rollNumber": 100254,
+    "name": "KIRAN BIBI",
+    "fatherName": "AHMAD BAIG"
+  },
+  {
+    "rollNumber": 100255,
+    "name": "ALISHBA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100256,
+    "name": "ALISHA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100257,
+    "name": "SABA NAFAR ALI",
+    "fatherName": "NAFAR ALI"
+  },
+  {
+    "rollNumber": 100258,
+    "name": "MONIBA HAMEED",
+    "fatherName": "ABDUL HAMEED"
+  },
+  {
+    "rollNumber": 100259,
+    "name": "AQSA FAREED",
+    "fatherName": "GHULAM FAREED"
+  },
+  {
+    "rollNumber": 100260,
+    "name": "NOREEN FATIMA",
+    "fatherName": "MUHAMMAD RAZZAQ"
+  },
+  {
+    "rollNumber": 100261,
+    "name": "HIFZA NASIR",
+    "fatherName": "NASIR ALI"
+  },
+  {
+    "rollNumber": 100262,
+    "name": "SHAHBEEN ANWAR",
+    "fatherName": "MUHAMMAD ANWAR ALI"
+  },
+  {
+    "rollNumber": 100263,
+    "name": "AREEBA KHALID",
+    "fatherName": "KHALID NAWAZ"
+  },
+  {
+    "rollNumber": 100264,
+    "name": "MUBASHRA SADIQ",
+    "fatherName": "MUHAMMAD AZHAR FARID"
+  },
+  {
+    "rollNumber": 100265,
+    "name": "HIBA RAZZAQ",
+    "fatherName": "ABDUL RAZZAQ KOUSAR"
+  },
+  {
+    "rollNumber": 100266,
+    "name": "IQRA",
+    "fatherName": "MUHAMMAD HANEEF"
+  },
+  {
+    "rollNumber": 100267,
+    "name": "SHAHIDA BIBI",
+    "fatherName": "QISMAT ALI"
+  },
+  {
+    "rollNumber": 100268,
+    "name": "SHUMAILA BIBI",
+    "fatherName": "HAJI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100269,
+    "name": "ZAINAB AHMAD",
+    "fatherName": "MUHAMMAD AHMAD"
+  },
+  {
+    "rollNumber": 100270,
+    "name": "HADIA FATIMA",
+    "fatherName": "ZIA ULLAH"
+  },
+  {
+    "rollNumber": 100271,
+    "name": "ROBAB",
+    "fatherName": "ALTAF HUSSAIN"
+  },
+  {
+    "rollNumber": 100272,
+    "name": "SAWERA MAZHAR",
+    "fatherName": "SYED MAZHAR HUSSAIN BUKHARI"
+  },
+  {
+    "rollNumber": 100273,
+    "name": "MAFIA MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 100274,
+    "name": "NEELAM FATIMA",
+    "fatherName": "MALIK MUHAMMAD ARSHAD ALI"
+  },
+  {
+    "rollNumber": 100275,
+    "name": "FATIMA SHAHZAD",
+    "fatherName": "MUHAMMAD AHMAD SHAHZAD"
+  },
+  {
+    "rollNumber": 100276,
+    "name": "AQSA KANWAL",
+    "fatherName": "RIAZ AHMED"
+  },
+  {
+    "rollNumber": 100277,
+    "name": "IQRA BASHIR",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 100278,
+    "name": "KINZA BIBI",
+    "fatherName": "MUHAMMAD AHMAD"
+  },
+  {
+    "rollNumber": 100279,
+    "name": "IQRA PARVEEN",
+    "fatherName": "SHAN ALI"
+  },
+  {
+    "rollNumber": 100280,
+    "name": "TAYYABA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100281,
+    "name": "MEMOONA QADRI",
+    "fatherName": "ALI AHMAD"
+  },
+  {
+    "rollNumber": 100282,
+    "name": "ZULAIKHAN ARIF",
+    "fatherName": "MUHAMMAD ARIF"
+  },
+  {
+    "rollNumber": 100283,
+    "name": "SADIA BIBI",
+    "fatherName": "SAKHI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100284,
+    "name": "RASHDA BASHEER",
+    "fatherName": "MUHAMMAD BASHIR"
+  },
+  {
+    "rollNumber": 100285,
+    "name": "ALISHBA",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 100286,
+    "name": "AYESHA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100287,
+    "name": "SALEHA ZAFAR",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100288,
+    "name": "ASMA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100289,
+    "name": "SHAMA NAWAZ",
+    "fatherName": "ALI NAWAZ"
+  },
+  {
+    "rollNumber": 100290,
+    "name": "UMME  HABIBA",
+    "fatherName": "MUHAMMAD MURTAZA"
+  },
+  {
+    "rollNumber": 100291,
+    "name": "SYEDA QURAT UL AIN FATIMA",
+    "fatherName": "SYED IFTIKHAR HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100292,
+    "name": "AQSA FATIMA",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100293,
+    "name": "AROOJ FATIMA",
+    "fatherName": "IJAZ AHMAD"
+  },
+  {
+    "rollNumber": 100294,
+    "name": "HIFSA BIBI",
+    "fatherName": "ZULIFQAR ALI"
+  },
+  {
+    "rollNumber": 100295,
+    "name": "MARYAM SHAHBAZ",
+    "fatherName": "SHAHBAZ MASIH"
+  },
+  {
+    "rollNumber": 100296,
+    "name": "MUSKAN IRSHAD",
+    "fatherName": "IRSHAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100297,
+    "name": "NAYAB FATIMA",
+    "fatherName": "CHAUDHARY MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100299,
+    "name": "MALAIKA NAZEER",
+    "fatherName": "NAZEER AHMAD"
+  },
+  {
+    "rollNumber": 100300,
+    "name": "MARYAM NAWAZ",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100301,
+    "name": "ISHMAL FATIMA",
+    "fatherName": "MUHAMMAD NAZIM"
+  },
+  {
+    "rollNumber": 100302,
+    "name": "SABA ZAMAN",
+    "fatherName": "MUHAMMAD ZAMAN"
+  },
+  {
+    "rollNumber": 100303,
+    "name": "IRAM SHAHZAD",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100304,
+    "name": "UME HABIBA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100305,
+    "name": "UJALA MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 100306,
+    "name": "AMINA",
+    "fatherName": "RABNAWAZ"
+  },
+  {
+    "rollNumber": 100307,
+    "name": "SIDRA MAQSOOD",
+    "fatherName": "MAQSOOD AHAMD"
+  },
+  {
+    "rollNumber": 100308,
+    "name": "MUBASHRA",
+    "fatherName": "RAB NAWAZ"
+  },
+  {
+    "rollNumber": 100309,
+    "name": "ANEES FATIMA",
+    "fatherName": "QURBAN ALI"
+  },
+  {
+    "rollNumber": 100310,
+    "name": "ZAHRA BIBI",
+    "fatherName": "HABIB ULLAH"
+  },
+  {
+    "rollNumber": 100311,
+    "name": "TEHREEM MOHY U DIN",
+    "fatherName": "GHULAM MOHY U DIN"
+  },
+  {
+    "rollNumber": 100312,
+    "name": "MUBEEN FATIMA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100313,
+    "name": "MARYAM ABBAS",
+    "fatherName": "RANA MUHAMMAD ABBAS TABBASUM"
+  },
+  {
+    "rollNumber": 100314,
+    "name": "NOUREEN FATIMA",
+    "fatherName": "MUHAMMAD ZAFAR"
+  },
+  {
+    "rollNumber": 100315,
+    "name": "AQSA AYUB",
+    "fatherName": "MUHAMMAD AYUB"
+  },
+  {
+    "rollNumber": 100316,
+    "name": "HUMAIRA RASHEED",
+    "fatherName": "MUHAMMAD RASHEED"
+  },
+  {
+    "rollNumber": 100317,
+    "name": "RABIA TALIB",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 100318,
+    "name": "AMNA MUKHTAR",
+    "fatherName": "MUKHTAR AHMED"
+  },
+  {
+    "rollNumber": 100319,
+    "name": "SURIA AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100320,
+    "name": "ALISHA",
+    "fatherName": "MUMTAZ AHMAD"
+  },
+  {
+    "rollNumber": 100321,
+    "name": "MANAHIL RAIZ",
+    "fatherName": "MUHAMMAD RAIZ"
+  },
+  {
+    "rollNumber": 100322,
+    "name": "SADIA BIBI",
+    "fatherName": "AHMAD YAAR"
+  },
+  {
+    "rollNumber": 100323,
+    "name": "HAFEEZA ALTAF",
+    "fatherName": "ALTAF HUSSAIN"
+  },
+  {
+    "rollNumber": 100324,
+    "name": "ANEES BIBI",
+    "fatherName": "MUHAMMAD PERVAIZ"
+  },
+  {
+    "rollNumber": 100325,
+    "name": "TAYYBA FAROOQ",
+    "fatherName": "UMAR FAROOQ"
+  },
+  {
+    "rollNumber": 100326,
+    "name": "NEERAB AKTHER",
+    "fatherName": "MUHAMMAD AKTHER"
+  },
+  {
+    "rollNumber": 100327,
+    "name": "SAIRA",
+    "fatherName": "MUHAMMAD YAQOOB"
+  },
+  {
+    "rollNumber": 100329,
+    "name": "BISMAH SHAHEEN",
+    "fatherName": "MIAN ABDUL GHANI WATTOO"
+  },
+  {
+    "rollNumber": 100330,
+    "name": "FIZA ALI",
+    "fatherName": "IRSHAD AHMAD"
+  },
+  {
+    "rollNumber": 100331,
+    "name": "HUSSAN BANO",
+    "fatherName": "KAREEM UL HASSAN SAQI"
+  },
+  {
+    "rollNumber": 100332,
+    "name": "TAIBA MUSTAFA",
+    "fatherName": "MUSTAFA SHAH"
+  },
+  {
+    "rollNumber": 100333,
+    "name": "LAIBA ABBAS",
+    "fatherName": "GHULAM ABBAS"
+  },
+  {
+    "rollNumber": 100334,
+    "name": "FIZA ITTEFAQ",
+    "fatherName": "MUHAMMAD ITTIFAQ"
+  },
+  {
+    "rollNumber": 100336,
+    "name": "SIDRA MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 100337,
+    "name": "MARYAM GHAFOOR",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100338,
+    "name": "AROOSHA MARYAM",
+    "fatherName": "BABAR SOHAIL ASLAM"
+  },
+  {
+    "rollNumber": 100339,
+    "name": "AYESHA FATIMA",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 100340,
+    "name": "ALISHBA ABBAS",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 100341,
+    "name": "ANUM MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100342,
+    "name": "MUBEEN ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100343,
+    "name": "AMNA ALLAH DITA",
+    "fatherName": "ALLAH DITA"
+  },
+  {
+    "rollNumber": 100344,
+    "name": "MEHAK FATIMA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100345,
+    "name": "TEHREEM AMEER",
+    "fatherName": "MUHAMMAD AMEER"
+  },
+  {
+    "rollNumber": 100346,
+    "name": "KHADIJA BIBI",
+    "fatherName": "MUHAMMAD SIDDIQUE"
+  },
+  {
+    "rollNumber": 100347,
+    "name": "EMAMA ASIF",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 100348,
+    "name": "IRAM BIBI",
+    "fatherName": "RASHEED AHMAD"
+  },
+  {
+    "rollNumber": 100349,
+    "name": "MISHAL FATIMA",
+    "fatherName": "DHALAY SHAH"
+  },
+  {
+    "rollNumber": 100350,
+    "name": "HAIQA JABBAR",
+    "fatherName": "ABDUL JABBAR"
+  },
+  {
+    "rollNumber": 100351,
+    "name": "SHAZMA NOOR",
+    "fatherName": "NOOR AHMAD"
+  },
+  {
+    "rollNumber": 100352,
+    "name": "ALISHBA NOOR",
+    "fatherName": "NOOR AHMAD"
+  },
+  {
+    "rollNumber": 100353,
+    "name": "ISHRAT AHMAD",
+    "fatherName": "MUHAMMAD AHMAD"
+  },
+  {
+    "rollNumber": 100354,
+    "name": "MOOMNA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM SAJID"
+  },
+  {
+    "rollNumber": 100355,
+    "name": "TAIBA TARIQ",
+    "fatherName": "MUHAMMAD TARIQ"
+  },
+  {
+    "rollNumber": 100356,
+    "name": "SUNDAS SHEHZAD",
+    "fatherName": "MUHAMMAD SHEHZAD BAIG"
+  },
+  {
+    "rollNumber": 100357,
+    "name": "TABEER FATIMA",
+    "fatherName": "FALAK SHER"
+  },
+  {
+    "rollNumber": 100358,
+    "name": "MUBASHARA FATIMA",
+    "fatherName": "FAKHAR HAYAT"
+  },
+  {
+    "rollNumber": 100359,
+    "name": "UMME HABIBA",
+    "fatherName": "MUHAMMAD NAVEED AKHTAR"
+  },
+  {
+    "rollNumber": 100360,
+    "name": "MEHWISH BIBI",
+    "fatherName": "MUHAMMAD ZAFAR"
+  },
+  {
+    "rollNumber": 100361,
+    "name": "AYESHA SADIQA",
+    "fatherName": "MUHAMMAD ASGHER"
+  },
+  {
+    "rollNumber": 100362,
+    "name": "AMINA NOOR",
+    "fatherName": "ZESHAN HYDER"
+  },
+  {
+    "rollNumber": 100363,
+    "name": "TAIBA",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100364,
+    "name": "ZEENAT ASHIQ",
+    "fatherName": "MUHAMMAD ASHIQ"
+  },
+  {
+    "rollNumber": 100365,
+    "name": "MINAHIL",
+    "fatherName": "MUHAMMAD PERVAIZ"
+  },
+  {
+    "rollNumber": 100366,
+    "name": "RABIA BIBI",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 100367,
+    "name": "JAWERIA NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100368,
+    "name": "RIMSHA ASHFAQ",
+    "fatherName": "MUHAMMAD ASHFAQ"
+  },
+  {
+    "rollNumber": 100369,
+    "name": "FIZA RIAZ",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100370,
+    "name": "MUBASHRA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100371,
+    "name": "KOMAL KALEEM",
+    "fatherName": "MUHAMMAD KALEEM"
+  },
+  {
+    "rollNumber": 100372,
+    "name": "UME ZAHRA",
+    "fatherName": "MAZHAR IQBAL"
+  },
+  {
+    "rollNumber": 100373,
+    "name": "FATIMA SAMREEN",
+    "fatherName": "MUHAMMAD AKMAL"
+  },
+  {
+    "rollNumber": 100374,
+    "name": "QURSAM FATIMA",
+    "fatherName": "CHAUDHARY MUHAMMAD AZEEM"
+  },
+  {
+    "rollNumber": 100375,
+    "name": "RIZMA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100376,
+    "name": "SADIA AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100377,
+    "name": "HAFSA",
+    "fatherName": "ABUBAKAR SAEED"
+  },
+  {
+    "rollNumber": 100378,
+    "name": "ABIDA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100379,
+    "name": "FATIMA NOOR",
+    "fatherName": "NOOR AHMAD"
+  },
+  {
+    "rollNumber": 100380,
+    "name": "SANA FAKHAR",
+    "fatherName": "RAI FAKHAR HAYAT"
+  },
+  {
+    "rollNumber": 100381,
+    "name": "HAFSA ABD-UR-REHMAN",
+    "fatherName": "ABD-UR-REHMAN"
+  },
+  {
+    "rollNumber": 100382,
+    "name": "SWAIRA IJAZ",
+    "fatherName": "IJAZ MAQSOOD"
+  },
+  {
+    "rollNumber": 100383,
+    "name": "ESHA FATIMA",
+    "fatherName": "FIDA HUSSAIN"
+  },
+  {
+    "rollNumber": 100384,
+    "name": "TAYYBA SHAKEEL",
+    "fatherName": "SHAKEEL AHMED"
+  },
+  {
+    "rollNumber": 100385,
+    "name": "SHEEZA GILLANI",
+    "fatherName": "SYED IMTIAZ ALI SHAH"
+  },
+  {
+    "rollNumber": 100386,
+    "name": "SOBIA PERVEEN",
+    "fatherName": "MUHAMMAD JAFFAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100387,
+    "name": "QANDEEL ZAHRA",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100389,
+    "name": "SANA ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100390,
+    "name": "MARAJ BIBI",
+    "fatherName": "MUHAMMAD MUNIR"
+  },
+  {
+    "rollNumber": 100391,
+    "name": "ZAINAB NAZEER",
+    "fatherName": "NAZEER AHMAD"
+  },
+  {
+    "rollNumber": 100392,
+    "name": "AQSA HAMID",
+    "fatherName": "HAMID ALI"
+  },
+  {
+    "rollNumber": 100393,
+    "name": "ALISHBA IRFAN",
+    "fatherName": "MUHAMMAD IRFAN"
+  },
+  {
+    "rollNumber": 100394,
+    "name": "AQSA BIBI",
+    "fatherName": "MUHAMMAD SARWER"
+  },
+  {
+    "rollNumber": 100395,
+    "name": "SHAMEEN RIAZ",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100396,
+    "name": "SEEMA GHAFOOR",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100397,
+    "name": "SANIA LATIF",
+    "fatherName": "MUHAMMAD LATIF"
+  },
+  {
+    "rollNumber": 100398,
+    "name": "MISBAH RIAZ",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100399,
+    "name": "AMINA MUSTAFA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100400,
+    "name": "AYESHA",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100401,
+    "name": "KAINAT FAZIL",
+    "fatherName": "FAZIL"
+  },
+  {
+    "rollNumber": 100402,
+    "name": "HAMNA HUSSAIN",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100403,
+    "name": "ATTIA HUSSAIN",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100404,
+    "name": "AROOMA FATIMA RIAZ KHAN",
+    "fatherName": "RIAZ UR ZAMAN KHAN"
+  },
+  {
+    "rollNumber": 100405,
+    "name": "BEENISH NIAZ",
+    "fatherName": "NIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100406,
+    "name": "NIMRA",
+    "fatherName": "SHAHSAWAR"
+  },
+  {
+    "rollNumber": 100408,
+    "name": "NADIA MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100409,
+    "name": "ASMA SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100410,
+    "name": "SIDRA BIBI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100411,
+    "name": "HIJAB FATIMA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100412,
+    "name": "MARYAM ALI",
+    "fatherName": "ALI SHER"
+  },
+  {
+    "rollNumber": 100413,
+    "name": "RABBIA YOUSAF",
+    "fatherName": "MUHAMMAD YOUSAF"
+  },
+  {
+    "rollNumber": 100414,
+    "name": "MAHAM FATIMA RAO",
+    "fatherName": "MOHAMMAD SHARIF"
+  },
+  {
+    "rollNumber": 100415,
+    "name": "SAMRA YASIN",
+    "fatherName": "MUHAMMAD YASIN"
+  },
+  {
+    "rollNumber": 100416,
+    "name": "TABINDA WAHEED",
+    "fatherName": "WAHEED AHMAD"
+  },
+  {
+    "rollNumber": 100418,
+    "name": "NASEEM ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100419,
+    "name": "FATIMA WATTO",
+    "fatherName": "MUHAMMAD YAAR KHAN"
+  },
+  {
+    "rollNumber": 100420,
+    "name": "MUQADAS SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100421,
+    "name": "FARZANA SHABBIR",
+    "fatherName": "SHABBIR AHMAD"
+  },
+  {
+    "rollNumber": 100422,
+    "name": "ALISHA",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 100423,
+    "name": "AMEESHA",
+    "fatherName": "MUHAMMAD AMJAD"
+  },
+  {
+    "rollNumber": 100424,
+    "name": "JAMEELA BIBI",
+    "fatherName": "NAZEER AHMAD"
+  },
+  {
+    "rollNumber": 100425,
+    "name": "ZAINAB BIBI",
+    "fatherName": "MUHAMMAD IRSHAD"
+  },
+  {
+    "rollNumber": 100426,
+    "name": "YASMIN",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100427,
+    "name": "KHADIJA ARSHAD",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 100429,
+    "name": "MEERUB FATIMA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100430,
+    "name": "MAHNOOR ASIF",
+    "fatherName": "MUHAMMAD ASIF RAZA"
+  },
+  {
+    "rollNumber": 100431,
+    "name": "SOBIA SADDIQA",
+    "fatherName": "MUHAMMAD DEEN"
+  },
+  {
+    "rollNumber": 100432,
+    "name": "ISHA IMAN",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100433,
+    "name": "IQRA SHAHEEN",
+    "fatherName": "MUHAMMAD ASGHAR"
+  },
+  {
+    "rollNumber": 100434,
+    "name": "SADIA WAHEED",
+    "fatherName": "ABDUL WAHEED"
+  },
+  {
+    "rollNumber": 100435,
+    "name": "RIDA FATIMA",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100436,
+    "name": "IQRA MUSTAFA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 100437,
+    "name": "ALEEZA BATOOL",
+    "fatherName": "WASEEM ASHIQ"
+  },
+  {
+    "rollNumber": 100438,
+    "name": "UME AIMAN",
+    "fatherName": "MUHAMMAD MUNIR"
+  },
+  {
+    "rollNumber": 100439,
+    "name": "MISBAH AHMAD",
+    "fatherName": "AHMAD KHAN"
+  },
+  {
+    "rollNumber": 100440,
+    "name": "MINAHIL ASHRAF",
+    "fatherName": "JAVED ASHRAF"
+  },
+  {
+    "rollNumber": 100441,
+    "name": "AMNA MUSHTAQ",
+    "fatherName": "MUSHTAQ AHMAD"
+  },
+  {
+    "rollNumber": 100442,
+    "name": "ALIZA KHURSHID",
+    "fatherName": "KHURSHID AHMAD"
+  },
+  {
+    "rollNumber": 100443,
+    "name": "ZAHRA",
+    "fatherName": "MUHAMMAD ISMAEEL"
+  },
+  {
+    "rollNumber": 100444,
+    "name": "ZAINAB MUHAMMAD HASSAN",
+    "fatherName": "MUHAMMAD HASSAN"
+  },
+  {
+    "rollNumber": 100445,
+    "name": "SABA FATIMA",
+    "fatherName": "MUHAMMAD SHAHBAZ"
+  },
+  {
+    "rollNumber": 100446,
+    "name": "NOUREEN RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100447,
+    "name": "SAJIDA PARVEEN",
+    "fatherName": "NAZAR MUHAMMAD"
+  },
+  {
+    "rollNumber": 100448,
+    "name": "MALAIKA AMEEN",
+    "fatherName": "MUHAMMAD AMEEN"
+  },
+  {
+    "rollNumber": 100449,
+    "name": "RUBAB FATIMA",
+    "fatherName": "MUHAMMAD HASSAN"
+  },
+  {
+    "rollNumber": 100450,
+    "name": "SANA NASIR",
+    "fatherName": "NASIR ALI"
+  },
+  {
+    "rollNumber": 100451,
+    "name": "GHULAM FATIMA",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100452,
+    "name": "SADIA RASHEED",
+    "fatherName": "MUHAMMAD RASHEED"
+  },
+  {
+    "rollNumber": 100453,
+    "name": "MARYAM ZULFIQAR",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100454,
+    "name": "SABA NOOR",
+    "fatherName": "RIAZ AHMED"
+  },
+  {
+    "rollNumber": 100455,
+    "name": "UME HAFSA",
+    "fatherName": "MUHAMMAD DAWOOD SANI"
+  },
+  {
+    "rollNumber": 100456,
+    "name": "FATIMA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100457,
+    "name": "KIRAN SHAHZADI",
+    "fatherName": "AHMAD YAR"
+  },
+  {
+    "rollNumber": 100459,
+    "name": "MUQADDAS",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 100460,
+    "name": "RUKSANA BIBI",
+    "fatherName": "MUHAMMAD IBRAHEEM"
+  },
+  {
+    "rollNumber": 100461,
+    "name": "RIMSHA BIBI",
+    "fatherName": "MUHAMMAD AMEEN"
+  },
+  {
+    "rollNumber": 100462,
+    "name": "MINAHIL",
+    "fatherName": "AHMAD NAYYER GHANI"
+  },
+  {
+    "rollNumber": 100463,
+    "name": "RAFIA NOOR",
+    "fatherName": "NOOR MUHAMMAD"
+  },
+  {
+    "rollNumber": 100464,
+    "name": "AREEBA BIBI",
+    "fatherName": "ABDUL RAZZAQ"
+  },
+  {
+    "rollNumber": 100465,
+    "name": "SAMREEN FATIMA",
+    "fatherName": "ABDUL RAZZAQ SHAKAR"
+  },
+  {
+    "rollNumber": 100466,
+    "name": "SANIA AMEEN",
+    "fatherName": "MUHAMMAD AMEEN"
+  },
+  {
+    "rollNumber": 100467,
+    "name": "AMAIMA FATIMA",
+    "fatherName": "NASRULLAH"
+  },
+  {
+    "rollNumber": 100468,
+    "name": "SEHAR",
+    "fatherName": "MUHAMMAD IRFAN"
+  },
+  {
+    "rollNumber": 100469,
+    "name": "UMMAY KALSOOM",
+    "fatherName": "SADAQAT ALI"
+  },
+  {
+    "rollNumber": 100470,
+    "name": "YASMIN ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100471,
+    "name": "AYESHA AWAIS",
+    "fatherName": "AWAIS"
+  },
+  {
+    "rollNumber": 100472,
+    "name": "ZUNAIRA MUKHTAR",
+    "fatherName": "MUKHTAR AHMAD"
+  },
+  {
+    "rollNumber": 100473,
+    "name": "FATIMA GOHAR",
+    "fatherName": "GOHAR ALI"
+  },
+  {
+    "rollNumber": 100474,
+    "name": "MEHNAZ BIBI",
+    "fatherName": "RANJHA"
+  },
+  {
+    "rollNumber": 100475,
+    "name": "BISMA FAIZ",
+    "fatherName": "FAIZ AHMAD"
+  },
+  {
+    "rollNumber": 100476,
+    "name": "GHULAM FATIMA",
+    "fatherName": "KHADIM HUSSAIN"
+  },
+  {
+    "rollNumber": 100477,
+    "name": "MUQADAS BIBI",
+    "fatherName": "MUHAMMAD AKHTAR"
+  },
+  {
+    "rollNumber": 100478,
+    "name": "NAZIA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100479,
+    "name": "ALIA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100480,
+    "name": "MUDASRA AMJAD",
+    "fatherName": "AMJAD ALI"
+  },
+  {
+    "rollNumber": 100481,
+    "name": "AQSA ANWAR",
+    "fatherName": "MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 100482,
+    "name": "SIDRA BIBI",
+    "fatherName": "NOOR HASSAN"
+  },
+  {
+    "rollNumber": 100483,
+    "name": "SIDRA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100484,
+    "name": "SALINA",
+    "fatherName": "MUHAMMAD JAFAR HAYAT"
+  },
+  {
+    "rollNumber": 100485,
+    "name": "NASREEN FATIMA",
+    "fatherName": "KHURSHEED AHMAD"
+  },
+  {
+    "rollNumber": 100486,
+    "name": "KHADIJA SHAHEEN",
+    "fatherName": "SAJID ALI"
+  },
+  {
+    "rollNumber": 100487,
+    "name": "AROOJ SHABAN",
+    "fatherName": "MUHAMAMD SHABAN"
+  },
+  {
+    "rollNumber": 100488,
+    "name": "TAIBA RANI",
+    "fatherName": "RAHMAT ALI"
+  },
+  {
+    "rollNumber": 100489,
+    "name": "HAFIZA PAKEEZA SAMNA HAIDER",
+    "fatherName": "MUHAMMAD NAZIR HAIDER"
+  },
+  {
+    "rollNumber": 100490,
+    "name": "HALEEMA SADIA",
+    "fatherName": "ABDUL LATIF"
+  },
+  {
+    "rollNumber": 100491,
+    "name": "FIZZA UL HASSAN",
+    "fatherName": "MUHAMMAD HASSAN"
+  },
+  {
+    "rollNumber": 100492,
+    "name": "YASMEEN",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100493,
+    "name": "IQRA YASEEN",
+    "fatherName": "MOHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100494,
+    "name": "KINZA AYYAZ",
+    "fatherName": "SYED AYYAZ HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100495,
+    "name": "SHANZA AYOUB",
+    "fatherName": "MUHAMMAD AYOUB KHALID"
+  },
+  {
+    "rollNumber": 100496,
+    "name": "AYESHA TARIQ",
+    "fatherName": "MUHAMMAD TARIQ"
+  },
+  {
+    "rollNumber": 100497,
+    "name": "ALISHA FATIMA",
+    "fatherName": "MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 100498,
+    "name": "ZUHA RASHEED",
+    "fatherName": "ABDUL RASHEED"
+  },
+  {
+    "rollNumber": 100499,
+    "name": "FARWA MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100500,
+    "name": "ZAINAB RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100501,
+    "name": "ZAHRA FATIMA",
+    "fatherName": "QURBAN ALI"
+  },
+  {
+    "rollNumber": 100502,
+    "name": "ZAINAB KHAN",
+    "fatherName": "MUHAMMAD SALEEM KHAN"
+  },
+  {
+    "rollNumber": 100503,
+    "name": "SADIA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100504,
+    "name": "NAYAB ILAYAS",
+    "fatherName": "MUHAMMAD ILAYAS"
+  },
+  {
+    "rollNumber": 100505,
+    "name": "MUSADIQ ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100506,
+    "name": "HINA SHAKEEL",
+    "fatherName": "SHAKEEL AHMAD"
+  },
+  {
+    "rollNumber": 100507,
+    "name": "MLAIKA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100508,
+    "name": "AMINA BIBI",
+    "fatherName": "FALAK SHAR"
+  },
+  {
+    "rollNumber": 100509,
+    "name": "ALIYA FATIMA",
+    "fatherName": "AMANAT ALI"
+  },
+  {
+    "rollNumber": 100510,
+    "name": "ANSA ZUBAIR",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 100511,
+    "name": "AMNA NADEAM",
+    "fatherName": "MUHAMMAD NADEAM"
+  },
+  {
+    "rollNumber": 100512,
+    "name": "GULAM AYESHA",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100513,
+    "name": "SYEDA SAMAN FAROOQ SHAH",
+    "fatherName": "MUHAMMAD FAROOQ SHAH"
+  },
+  {
+    "rollNumber": 100514,
+    "name": "MEHNAAZ BIBI",
+    "fatherName": "NIAMAT ALI"
+  },
+  {
+    "rollNumber": 100515,
+    "name": "SANIA",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100516,
+    "name": "KARISHMA NAZEER",
+    "fatherName": "NAZEER AHMED"
+  },
+  {
+    "rollNumber": 100517,
+    "name": "KHADIJA ABID",
+    "fatherName": "ABID YOUNAS"
+  },
+  {
+    "rollNumber": 100518,
+    "name": "AYESHA BIBI",
+    "fatherName": "SHAFI  MUHAMMAD"
+  },
+  {
+    "rollNumber": 100520,
+    "name": "IRAM AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100521,
+    "name": "JAVERIA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100522,
+    "name": "KHADIJA BIBI",
+    "fatherName": "JAVED AHMAD"
+  },
+  {
+    "rollNumber": 100523,
+    "name": "MUNAZZA ATTA",
+    "fatherName": "NISAR AHMAD"
+  },
+  {
+    "rollNumber": 100524,
+    "name": "SADIA MIRAJ",
+    "fatherName": "MUHAMMAD NADEEM AHMAD"
+  },
+  {
+    "rollNumber": 100525,
+    "name": "ADAN TAHSEEN",
+    "fatherName": "ZAKIR HUSSAIN"
+  },
+  {
+    "rollNumber": 100526,
+    "name": "NOSHEEN HAMZAH",
+    "fatherName": "AMEER HAMZAH SAJID"
+  },
+  {
+    "rollNumber": 100527,
+    "name": "NEHA ABBAS KHAN",
+    "fatherName": "GHULAM ABBAS KHAN"
+  },
+  {
+    "rollNumber": 100528,
+    "name": "AMNA ZULFIQAR",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100529,
+    "name": "AMNA RIAZ",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 100530,
+    "name": "ALIZA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100531,
+    "name": "KHADIJA ASHIQ",
+    "fatherName": "MUHAMMAD ASHIQ"
+  },
+  {
+    "rollNumber": 100532,
+    "name": "MARIA MUNIR",
+    "fatherName": "MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 100533,
+    "name": "ANAM KAREEM",
+    "fatherName": "KAREEM DAD"
+  },
+  {
+    "rollNumber": 100534,
+    "name": "ABEERA NADEEM",
+    "fatherName": "NADEEM AKHTAR KAN"
+  },
+  {
+    "rollNumber": 100535,
+    "name": "AMNA MEHBOOB",
+    "fatherName": "MEHBOOB AHMAD"
+  },
+  {
+    "rollNumber": 100536,
+    "name": "SUMAN ABBASS",
+    "fatherName": "MUHAMMAD ABBASS"
+  },
+  {
+    "rollNumber": 100537,
+    "name": "AYESHA SHAMEEM",
+    "fatherName": "NAZIM ALI"
+  },
+  {
+    "rollNumber": 100538,
+    "name": "SANIA RASOOL",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 100539,
+    "name": "MURYAM BATOOL",
+    "fatherName": "MEHMOOD AHMED"
+  },
+  {
+    "rollNumber": 100540,
+    "name": "BISMILL SAMRA",
+    "fatherName": "MUHAMMAD BOOTA"
+  },
+  {
+    "rollNumber": 100541,
+    "name": "SANIA ALTAF",
+    "fatherName": "MUHAMMAD ALTAF"
+  },
+  {
+    "rollNumber": 100542,
+    "name": "FATIMA TUL ZAHRA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100543,
+    "name": "RUQIA PARVEEN",
+    "fatherName": "SHAH MUHAMMAD"
+  },
+  {
+    "rollNumber": 100544,
+    "name": "EMAN BIBI",
+    "fatherName": "ABDUL ROUF"
+  },
+  {
+    "rollNumber": 100545,
+    "name": "SHAZMA AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 100546,
+    "name": "SHAGUFTA PARVEEN",
+    "fatherName": "WALI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100547,
+    "name": "MUSKAN FATIMA",
+    "fatherName": "DAOOD AHMAD"
+  },
+  {
+    "rollNumber": 100548,
+    "name": "IQRA FATIMA",
+    "fatherName": "ABDUL SATTAR"
+  },
+  {
+    "rollNumber": 100549,
+    "name": "KASHF FATIMA",
+    "fatherName": "MUHAMMAD IJAZ"
+  },
+  {
+    "rollNumber": 100550,
+    "name": "KINZA RAFIQ",
+    "fatherName": "MUHAMMAD RAFIQ"
+  },
+  {
+    "rollNumber": 100551,
+    "name": "NAJMA BIBI",
+    "fatherName": "MUHAMMAD ZAFAR"
+  },
+  {
+    "rollNumber": 100552,
+    "name": "NAYYAB SHAHZADI",
+    "fatherName": "ALLAH DITTA SHAHZADA"
+  },
+  {
+    "rollNumber": 100553,
+    "name": "RIMSHA RIAZ",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100554,
+    "name": "UME JAVERIA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100555,
+    "name": "SOBIA MUNIR",
+    "fatherName": "MOHAMMAD MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 100556,
+    "name": "AROOJ FATIMA",
+    "fatherName": "MUHAMMAD AMEER"
+  },
+  {
+    "rollNumber": 100557,
+    "name": "KHADIJA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100558,
+    "name": "IQRA BIBI",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100559,
+    "name": "SAIQA",
+    "fatherName": "GHULAM FARID"
+  },
+  {
+    "rollNumber": 100560,
+    "name": "MINAHIL AFZAAL",
+    "fatherName": "AFZAAL AHMAD KHAN"
+  },
+  {
+    "rollNumber": 100561,
+    "name": "SYEDA FIZZA FATIMA",
+    "fatherName": "SYED KHADIM ALI SHAH"
+  },
+  {
+    "rollNumber": 100562,
+    "name": "AMNA BIBI",
+    "fatherName": "HAJI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100563,
+    "name": "ZAIB UN NISA",
+    "fatherName": "SHABBIR AHMAD MUHAMMADI"
+  },
+  {
+    "rollNumber": 100564,
+    "name": "AMINA RAFIQ",
+    "fatherName": "MUHAMMAD RAFIQ"
+  },
+  {
+    "rollNumber": 100565,
+    "name": "RIDA FATIMA",
+    "fatherName": "KHADIM HUSSAIN"
+  },
+  {
+    "rollNumber": 100566,
+    "name": "MAHEEN FATIMA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100567,
+    "name": "AFSHAAN ARIF",
+    "fatherName": "MUHAMMAD ARIF"
+  },
+  {
+    "rollNumber": 100568,
+    "name": "SAIMA",
+    "fatherName": "MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 100569,
+    "name": "AMINA HASSAN",
+    "fatherName": "MUHAMMAD HASSAN"
+  },
+  {
+    "rollNumber": 100570,
+    "name": "MISBAH FALAK",
+    "fatherName": "FALAK SHER"
+  },
+  {
+    "rollNumber": 100571,
+    "name": "AYESHA NIYAZ",
+    "fatherName": "NIYAZ AHMAD"
+  },
+  {
+    "rollNumber": 100572,
+    "name": "SANA FATIMA",
+    "fatherName": "RAB NAWAZ"
+  },
+  {
+    "rollNumber": 100573,
+    "name": "BASRA SATTAR",
+    "fatherName": "SARDAR ALI"
+  },
+  {
+    "rollNumber": 100574,
+    "name": "FATIMA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100575,
+    "name": "HAFSA NASEER",
+    "fatherName": "NASEER AHMAD"
+  },
+  {
+    "rollNumber": 100576,
+    "name": "TAYBA AZAM",
+    "fatherName": "MUHAMMAD AZAM"
+  },
+  {
+    "rollNumber": 100577,
+    "name": "MUSKAN FATIMA",
+    "fatherName": "MUHAMMAD AKHTAR"
+  },
+  {
+    "rollNumber": 100578,
+    "name": "ALISHBA SATTAR",
+    "fatherName": "ABDUL SATTAR"
+  },
+  {
+    "rollNumber": 100579,
+    "name": "NAILA SAFDAR",
+    "fatherName": "MUHAMMAD SAFDAR"
+  },
+  {
+    "rollNumber": 100580,
+    "name": "MUNAZA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100581,
+    "name": "SAMAN NADEEM",
+    "fatherName": "NADEEM AHMAD JAMEEL"
+  },
+  {
+    "rollNumber": 100582,
+    "name": "ADIBA ZAFAR",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100583,
+    "name": "AQSA BIBI",
+    "fatherName": "MUHAMMAD ISMAIL"
+  },
+  {
+    "rollNumber": 100584,
+    "name": "AYESHA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100585,
+    "name": "TANZEELA",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100586,
+    "name": "ZAINAB BIBI",
+    "fatherName": "MUHAMMAD ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100587,
+    "name": "SAJAL PARVEEN",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100588,
+    "name": "TEHMINA MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 100589,
+    "name": "BISMILLAH",
+    "fatherName": "ALLAH DITA"
+  },
+  {
+    "rollNumber": 100590,
+    "name": "AREESHA NOOR",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 100591,
+    "name": "SABA PARWEEN",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 100592,
+    "name": "HAFSA GULAM NABI",
+    "fatherName": "GHULAM NABI"
+  },
+  {
+    "rollNumber": 100593,
+    "name": "FIZZA ASIF",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 100594,
+    "name": "MISBAH TABASAM",
+    "fatherName": "MUHAMMAD YASIN"
+  },
+  {
+    "rollNumber": 100595,
+    "name": "GHULAM FATIMA",
+    "fatherName": "SHAKEEL AHMAD"
+  },
+  {
+    "rollNumber": 100596,
+    "name": "IFRA",
+    "fatherName": "LIQUAT ALI"
+  },
+  {
+    "rollNumber": 100597,
+    "name": "AYESHA BIBI",
+    "fatherName": "SHOKAT ALI"
+  },
+  {
+    "rollNumber": 100600,
+    "name": "SABA SHAHEEN",
+    "fatherName": "MUHAMMAD ISHAQ"
+  },
+  {
+    "rollNumber": 100601,
+    "name": "RASHIDA BIBI",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100602,
+    "name": "HUBA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100603,
+    "name": "SADIA HALEEMA",
+    "fatherName": "RUSTAM ALI"
+  },
+  {
+    "rollNumber": 100604,
+    "name": "SYEDA AMEER FATIMA",
+    "fatherName": "SYED BASHARAT ALI SHAH SHAMSI"
+  },
+  {
+    "rollNumber": 100605,
+    "name": "NOOR FATIMA",
+    "fatherName": "GHULAM DASTGIR"
+  },
+  {
+    "rollNumber": 100606,
+    "name": "ZAINAB BOOTA",
+    "fatherName": "MUHAMMAD BOOTA"
+  },
+  {
+    "rollNumber": 100607,
+    "name": "UMM E AMARA",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100608,
+    "name": "IQRA FATIMA",
+    "fatherName": "MUHAMMAD AHMAD"
+  },
+  {
+    "rollNumber": 100609,
+    "name": "BUSHRA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100610,
+    "name": "AYESHA JABBAR",
+    "fatherName": "JABBAR AHMAD"
+  },
+  {
+    "rollNumber": 100611,
+    "name": "RIMSHA",
+    "fatherName": "TARIQ JAMEEL"
+  },
+  {
+    "rollNumber": 100613,
+    "name": "KIRAN SAEED",
+    "fatherName": "SAEED AHMAD"
+  },
+  {
+    "rollNumber": 100614,
+    "name": "MAHAM",
+    "fatherName": "ABDUL LATIF"
+  },
+  {
+    "rollNumber": 100615,
+    "name": "NISHA",
+    "fatherName": "SHAHZAD MASEEH"
+  },
+  {
+    "rollNumber": 100616,
+    "name": "SANIA JAMEEL CHISHTI",
+    "fatherName": "MUHAMMAD JAMEEL CHISHTI"
+  },
+  {
+    "rollNumber": 100617,
+    "name": "SUMAIRA REHMAT",
+    "fatherName": "REHMAT ALI"
+  },
+  {
+    "rollNumber": 100618,
+    "name": "IQRA NASEEM",
+    "fatherName": "MUHAMMAD SARVER JAVAID"
+  },
+  {
+    "rollNumber": 100619,
+    "name": "ZARA BIBI",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 100620,
+    "name": "AQSA PARVEEN",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 100621,
+    "name": "KASHAF FATIMA",
+    "fatherName": "ADEEL KHAN"
+  },
+  {
+    "rollNumber": 100622,
+    "name": "AYESHA",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100623,
+    "name": "TAYYABA KHALID",
+    "fatherName": "KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 100624,
+    "name": "HAFSA JAVED",
+    "fatherName": "ARSHAD JAVED"
+  },
+  {
+    "rollNumber": 100625,
+    "name": "FATIMA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100626,
+    "name": "RASHIM GULL",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100627,
+    "name": "ANEES FATIMA",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 100628,
+    "name": "SYEDA KAINAT FATIMA",
+    "fatherName": "SYED IZHAR HUSSAIN BUKHARI"
+  },
+  {
+    "rollNumber": 100629,
+    "name": "MAMOONA BIBI",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100630,
+    "name": "ZANIB ZUBAIR",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 100631,
+    "name": "SAWERA GOUSHI",
+    "fatherName": "SIFARSH ALI SHAHEEN"
+  },
+  {
+    "rollNumber": 100632,
+    "name": "IQRA REHMAT",
+    "fatherName": "REHMAT ALI"
+  },
+  {
+    "rollNumber": 100633,
+    "name": "AYESHA AKBAR",
+    "fatherName": "AKBAR ALI"
+  },
+  {
+    "rollNumber": 100634,
+    "name": "SADAF UMAR",
+    "fatherName": "UMAR DARAZ"
+  },
+  {
+    "rollNumber": 100635,
+    "name": "NABILA SHAHEEN",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100636,
+    "name": "KASHAF MAQSOOD AHMAD",
+    "fatherName": "MALIK MAQSOOD AHMAD"
+  },
+  {
+    "rollNumber": 100637,
+    "name": "IRAM ANDLEEB SOHAIL",
+    "fatherName": "MUHAMMAD SOHAIL AZHAR"
+  },
+  {
+    "rollNumber": 100638,
+    "name": "AQSA",
+    "fatherName": "MUHAMMAD ASHRIF"
+  },
+  {
+    "rollNumber": 100639,
+    "name": "FAREEBA ASLAM",
+    "fatherName": "MUHAMMAD IBRAHIM"
+  },
+  {
+    "rollNumber": 100640,
+    "name": "SHAHEEN BIBI",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100641,
+    "name": "TAHREEM FATIMA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100642,
+    "name": "NOREEN FATIMA",
+    "fatherName": "SANA ULLAH"
+  },
+  {
+    "rollNumber": 100643,
+    "name": "MARYAM AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100644,
+    "name": "MEHWISH BIBI",
+    "fatherName": "MUHAMMAD ALI"
+  },
+  {
+    "rollNumber": 100645,
+    "name": "AREESHA FATIMA",
+    "fatherName": "ANWAR UL HAQ"
+  },
+  {
+    "rollNumber": 100646,
+    "name": "NABEELA SHAHEEN",
+    "fatherName": "SYED MUZAMMIL HUSSAIN SHAH"
+  },
+  {
+    "rollNumber": 100647,
+    "name": "AYESHA HAFEEZ",
+    "fatherName": "HAFEEZ AHMAD"
+  },
+  {
+    "rollNumber": 100648,
+    "name": "AIMAN",
+    "fatherName": "AISH BAHADUR"
+  },
+  {
+    "rollNumber": 100649,
+    "name": "MEHWISH ARSHAD",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100650,
+    "name": "SHAZIA",
+    "fatherName": "SAEED AHMAD"
+  },
+  {
+    "rollNumber": 100651,
+    "name": "UME HABIBA",
+    "fatherName": "ABDUL GHAFFAR"
+  },
+  {
+    "rollNumber": 100652,
+    "name": "FARAH IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100653,
+    "name": "UNZILA EJAZ",
+    "fatherName": "RIAZ AHMAD EJAZ"
+  },
+  {
+    "rollNumber": 100654,
+    "name": "AMNA SARFRAZ",
+    "fatherName": "SARFRAZ AHMAD"
+  },
+  {
+    "rollNumber": 100655,
+    "name": "TAYYBA BASHARAT",
+    "fatherName": "BASHARAT GHOUS"
+  },
+  {
+    "rollNumber": 100656,
+    "name": "ASMA ABBAS",
+    "fatherName": "FIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100657,
+    "name": "SAMAN SHAHEEN",
+    "fatherName": "MUHAMMAD YASIN"
+  },
+  {
+    "rollNumber": 100658,
+    "name": "EMAN FATIMA",
+    "fatherName": "GHULAM SABIR"
+  },
+  {
+    "rollNumber": 100659,
+    "name": "IRAM FATIMA",
+    "fatherName": "ABDUL RAZZAQ"
+  },
+  {
+    "rollNumber": 100660,
+    "name": "RIMSHA",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100661,
+    "name": "ANSA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100662,
+    "name": "FATIMA ABBAS",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 100663,
+    "name": "NAZIA NIAZ",
+    "fatherName": "MUHAMMAD NIAZ"
+  },
+  {
+    "rollNumber": 100664,
+    "name": "MUSARAT FATIMA",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 100665,
+    "name": "AYESHA TEHREEM",
+    "fatherName": "ABDUL SHAKOOR"
+  },
+  {
+    "rollNumber": 100666,
+    "name": "ANEES FATIMA",
+    "fatherName": "MUHAMMAD YOUNIS"
+  },
+  {
+    "rollNumber": 100667,
+    "name": "SIDRA AHMAD",
+    "fatherName": "AHMAD ALI"
+  },
+  {
+    "rollNumber": 100668,
+    "name": "SAWERA  AMEER",
+    "fatherName": "MUHAMMAD AMEER"
+  },
+  {
+    "rollNumber": 100669,
+    "name": "SHAZIA PARVEEN",
+    "fatherName": "ALLAH JAWAY"
+  },
+  {
+    "rollNumber": 100670,
+    "name": "ALISHA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 100671,
+    "name": "MARYAM BIBI",
+    "fatherName": "SARDAR ALI"
+  },
+  {
+    "rollNumber": 100672,
+    "name": "ZEEMAL ARFAT",
+    "fatherName": "MALIK ARFAT ZIA KHOKHAR"
+  },
+  {
+    "rollNumber": 100673,
+    "name": "AYESHA MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 100674,
+    "name": "NIMRA MUMTAZ",
+    "fatherName": "MUMTAZ AHMAD"
+  },
+  {
+    "rollNumber": 100675,
+    "name": "SANIA",
+    "fatherName": "MUKHTIYAR AHMAD"
+  },
+  {
+    "rollNumber": 100676,
+    "name": "AYESHA DARVAISH",
+    "fatherName": "DARVAISH AHMAD"
+  },
+  {
+    "rollNumber": 100677,
+    "name": "YASMEEN",
+    "fatherName": "SAKHI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100678,
+    "name": "RAKIA BATOOL",
+    "fatherName": "ABDUL GHAFFAR"
+  },
+  {
+    "rollNumber": 100679,
+    "name": "IQRA MUBEEN",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 100680,
+    "name": "FATIHA MUSHTAQ",
+    "fatherName": "MUSHTAQ AHMAD"
+  },
+  {
+    "rollNumber": 100681,
+    "name": "HAFIZA SAIMA",
+    "fatherName": "MUHAMMAD AMEER"
+  },
+  {
+    "rollNumber": 100682,
+    "name": "ZAINAB ZAMAN",
+    "fatherName": "ZAMAN FARID"
+  },
+  {
+    "rollNumber": 100683,
+    "name": "RIDA FATIMA",
+    "fatherName": "MUHAMMAD ABID"
+  },
+  {
+    "rollNumber": 100684,
+    "name": "MANISHMA SAJID",
+    "fatherName": "SAJID FAREED KHAN"
+  },
+  {
+    "rollNumber": 100685,
+    "name": "SHAMILA BIBI",
+    "fatherName": "ABDUL RAUF"
+  },
+  {
+    "rollNumber": 100686,
+    "name": "SHUMAILA BIBI",
+    "fatherName": "SALAHUDIN"
+  },
+  {
+    "rollNumber": 100687,
+    "name": "MEMOONA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100688,
+    "name": "GHULAM FATIMA MUNEER",
+    "fatherName": "MUNEER AHMAD"
+  },
+  {
+    "rollNumber": 100689,
+    "name": "SADIA AMEEN",
+    "fatherName": "MUHAMMAD AMEEN"
+  },
+  {
+    "rollNumber": 100690,
+    "name": "GULZAR FATIMA",
+    "fatherName": "MUHAMMAD SHAHBAZ"
+  },
+  {
+    "rollNumber": 100691,
+    "name": "MUQADDAS ALAM",
+    "fatherName": "ALAM HUSAIN"
+  },
+  {
+    "rollNumber": 100692,
+    "name": "ASRA NAEEM",
+    "fatherName": "MUHAMMAD NAEEM KHAN"
+  },
+  {
+    "rollNumber": 100693,
+    "name": "ALIZA",
+    "fatherName": "GHULAM ALI"
+  },
+  {
+    "rollNumber": 100694,
+    "name": "SAMAN  MUHAMMAD DIN",
+    "fatherName": "MUHAMMAD DIN"
+  },
+  {
+    "rollNumber": 100695,
+    "name": "SHAFIA",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 100696,
+    "name": "SONIA PARVEEN",
+    "fatherName": "GHULAM FAREED"
+  },
+  {
+    "rollNumber": 100697,
+    "name": "HABIBA SHAFIQ",
+    "fatherName": "SAIFULLAH"
+  },
+  {
+    "rollNumber": 100698,
+    "name": "AMBREEN AZHAR",
+    "fatherName": "AZHAR HASSAN"
+  },
+  {
+    "rollNumber": 100699,
+    "name": "YASMEEN MUMTAZ",
+    "fatherName": "MUHAMMAD MUMTAZ"
+  },
+  {
+    "rollNumber": 100700,
+    "name": "NIDA TARIQ",
+    "fatherName": "TARIQ SAEED"
+  },
+  {
+    "rollNumber": 100701,
+    "name": "AQDAS SHAFIQ",
+    "fatherName": "MUHAMMAD SHAFIQ"
+  },
+  {
+    "rollNumber": 100702,
+    "name": "SEERAT MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100703,
+    "name": "MEHREEM FATIMA",
+    "fatherName": "MUHAMMAD KHAN"
+  },
+  {
+    "rollNumber": 100704,
+    "name": "GHAZALA GHAFOOR",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100705,
+    "name": "ALISHA",
+    "fatherName": "BABAR ALI"
+  },
+  {
+    "rollNumber": 100706,
+    "name": "NOOR E FAJAR",
+    "fatherName": "MUHAMMAD TARIQ JAVED"
+  },
+  {
+    "rollNumber": 100707,
+    "name": "SAWERA AHSAN",
+    "fatherName": "AHSAN ALI"
+  },
+  {
+    "rollNumber": 100708,
+    "name": "ALIA AHAMAD",
+    "fatherName": "MUHAMMAD    AHAMAD"
+  },
+  {
+    "rollNumber": 100709,
+    "name": "SAFIA ISHAQ",
+    "fatherName": "MUHAMMAD ISHAQ"
+  },
+  {
+    "rollNumber": 100710,
+    "name": "AQSA ZAINAB",
+    "fatherName": "MUHAMMAD ABBAS SAEED"
+  },
+  {
+    "rollNumber": 100711,
+    "name": "SALMA KHADIM",
+    "fatherName": "KHADIM ALI"
+  },
+  {
+    "rollNumber": 100712,
+    "name": "AYESHA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100713,
+    "name": "KISHWAR RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100714,
+    "name": "UME KALSOOM",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 100715,
+    "name": "AASIMA BIBI",
+    "fatherName": "NADEEM AKHTAR"
+  },
+  {
+    "rollNumber": 100716,
+    "name": "DUA FATIMA",
+    "fatherName": "JHANGIR"
+  },
+  {
+    "rollNumber": 100717,
+    "name": "AYESHA BIBI",
+    "fatherName": "MUHAMMAD SHAREEF"
+  },
+  {
+    "rollNumber": 100718,
+    "name": "MISBAH SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100719,
+    "name": "MARYAM MAZHAR",
+    "fatherName": "MAZHAR AHMAD"
+  },
+  {
+    "rollNumber": 100720,
+    "name": "AAMINA BIBI",
+    "fatherName": "MUKHTIAR AHMAD"
+  },
+  {
+    "rollNumber": 100721,
+    "name": "SOBIA FAROOQ",
+    "fatherName": "FAROOQ AHMAD"
+  },
+  {
+    "rollNumber": 100722,
+    "name": "TEHREEM FATIMA",
+    "fatherName": "MUHAMMAD JAVED ALI"
+  },
+  {
+    "rollNumber": 100723,
+    "name": "UMM E HABIBA",
+    "fatherName": "IRSHAD AHMAD"
+  },
+  {
+    "rollNumber": 100724,
+    "name": "SANAM NAZ",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100725,
+    "name": "SAHER MANSOOR",
+    "fatherName": "MANSOOR ALI"
+  },
+  {
+    "rollNumber": 100726,
+    "name": "SAMAVIA RAFI",
+    "fatherName": "MUHAMMAD RAFI"
+  },
+  {
+    "rollNumber": 100727,
+    "name": "LAIBA FATIMA",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100728,
+    "name": "NABILA IRSHAD",
+    "fatherName": "MUHAMMAD IRSHAD"
+  },
+  {
+    "rollNumber": 100729,
+    "name": "AYESHA FATIMA",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 100730,
+    "name": "SABA QURBAN",
+    "fatherName": "QURBAN ALI"
+  },
+  {
+    "rollNumber": 100731,
+    "name": "MARYAM ASGHAR",
+    "fatherName": "MUHAMMAD ASGHAR"
+  },
+  {
+    "rollNumber": 100732,
+    "name": "ZAINAB BIBI",
+    "fatherName": "HABIB ULLAH"
+  },
+  {
+    "rollNumber": 100733,
+    "name": "RABIA KASHIF",
+    "fatherName": "MIAN KASHIF WATTOO"
+  },
+  {
+    "rollNumber": 100734,
+    "name": "MARYAM FAROOQ",
+    "fatherName": "FAROOQ AZAM"
+  },
+  {
+    "rollNumber": 100735,
+    "name": "SEHAR FAROOQ AHMAD KHAN",
+    "fatherName": "FAROOQ AHMAD KHAN"
+  },
+  {
+    "rollNumber": 100736,
+    "name": "SOBIA MAJID",
+    "fatherName": "ABDUL MAJID PRINCE"
+  },
+  {
+    "rollNumber": 100737,
+    "name": "MUSRRAT ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100738,
+    "name": "SIDRA BIBI",
+    "fatherName": "SHER BAHADUR"
+  },
+  {
+    "rollNumber": 100739,
+    "name": "SAMIA BIBI",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100740,
+    "name": "MALAISHA ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100741,
+    "name": "SEHRISH BIBI",
+    "fatherName": "MUHAMMAD MAQBOOL"
+  },
+  {
+    "rollNumber": 100742,
+    "name": "AMINA BIBI",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100743,
+    "name": "MUQADDAS BIBI",
+    "fatherName": "MUHAMMAD JAHANGEER"
+  },
+  {
+    "rollNumber": 100744,
+    "name": "ASIMA BIBI",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 100745,
+    "name": "MEHWISH SARDAR",
+    "fatherName": "SARDAR AHMAD"
+  },
+  {
+    "rollNumber": 100746,
+    "name": "EMAN FATIMA",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100747,
+    "name": "MAHNOOR FATIMA",
+    "fatherName": "KHALID SALEEM"
+  },
+  {
+    "rollNumber": 100748,
+    "name": "ISHAL ZAIB",
+    "fatherName": "MUHAMMAD MAZHAR ZAIB WATTOO"
+  },
+  {
+    "rollNumber": 100749,
+    "name": "ZARBAKH NISA",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100750,
+    "name": "SEHAR  JAAN",
+    "fatherName": "MUHAMMAD JAAN"
+  },
+  {
+    "rollNumber": 100751,
+    "name": "LUBNA HABIB",
+    "fatherName": "ALTAF ALI SHAH"
+  },
+  {
+    "rollNumber": 100752,
+    "name": "SEHREEN FATIMA",
+    "fatherName": "SHAUKAT ALI"
+  },
+  {
+    "rollNumber": 100754,
+    "name": "SANIA SAIF",
+    "fatherName": "SAIF UL ALLAH"
+  },
+  {
+    "rollNumber": 100755,
+    "name": "RIMSHA BIBI",
+    "fatherName": "AKBAR ALI"
+  },
+  {
+    "rollNumber": 100756,
+    "name": "AMNA SHAKEEL",
+    "fatherName": "SHAKEEL AHMAD"
+  },
+  {
+    "rollNumber": 100757,
+    "name": "TAIBA NAWAZ",
+    "fatherName": "KHALID NAWAZ"
+  },
+  {
+    "rollNumber": 100758,
+    "name": "MAIRA AKBAR",
+    "fatherName": "MUHAMMAD AKBAR"
+  },
+  {
+    "rollNumber": 100759,
+    "name": "SABA MUKHTIAR",
+    "fatherName": "MUKHTIAR AHMAD"
+  },
+  {
+    "rollNumber": 100760,
+    "name": "ZAHRA BIBI",
+    "fatherName": "ABDUL HAKEEM"
+  },
+  {
+    "rollNumber": 100761,
+    "name": "MARYAM FATIMA",
+    "fatherName": "INTZAR  AHMAD"
+  },
+  {
+    "rollNumber": 100762,
+    "name": "EMAAN FATIMA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100763,
+    "name": "SANA PARVEEN",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 100764,
+    "name": "MANAHIL YOUSAF",
+    "fatherName": "MUHAMMAD YOUSAF"
+  },
+  {
+    "rollNumber": 100765,
+    "name": "MARIA MURTAZA",
+    "fatherName": "GHULAM MURTAZA"
+  },
+  {
+    "rollNumber": 100766,
+    "name": "AROOJ  FATIMA",
+    "fatherName": "SAFDAR ALI"
+  },
+  {
+    "rollNumber": 100768,
+    "name": "WARDA TAHREEM ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100769,
+    "name": "AMINA WAZEER",
+    "fatherName": "MUHAMMAD WAZEER"
+  },
+  {
+    "rollNumber": 100770,
+    "name": "AIMAN NAWAZ",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100771,
+    "name": "TAYYABA BIBI",
+    "fatherName": "MUHAMMAD PERVAIZ"
+  },
+  {
+    "rollNumber": 100772,
+    "name": "MUBASHARA ZULFIQAR",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100773,
+    "name": "AQSA RANI",
+    "fatherName": "KHALID HUSSAIN"
+  },
+  {
+    "rollNumber": 100774,
+    "name": "ATTIQA JAVED",
+    "fatherName": "MUHAMMAD JAVED"
+  },
+  {
+    "rollNumber": 100775,
+    "name": "ANAM LIAQAT",
+    "fatherName": "LIAQAT ALI SAJID"
+  },
+  {
+    "rollNumber": 100776,
+    "name": "SIMRAN MAJEED",
+    "fatherName": "MAJEED AHMAD"
+  },
+  {
+    "rollNumber": 100777,
+    "name": "SHANZA MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 100778,
+    "name": "KHADIJA ZAKAR",
+    "fatherName": "MUHAMMAD  ZAKAR ALI"
+  },
+  {
+    "rollNumber": 100779,
+    "name": "TAYYBA SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100780,
+    "name": "IRAM JALAL",
+    "fatherName": "JALAL"
+  },
+  {
+    "rollNumber": 100781,
+    "name": "TEHMINA RANI",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100782,
+    "name": "ADEELA SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100783,
+    "name": "FARHA BIBI",
+    "fatherName": "QURBAN ALI"
+  },
+  {
+    "rollNumber": 100785,
+    "name": "MARYAM MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100786,
+    "name": "MEHWISH ABDUL SHAKOOR",
+    "fatherName": "ABDUL SHAKOOR"
+  },
+  {
+    "rollNumber": 100787,
+    "name": "SWAIBA AMIR",
+    "fatherName": "MUHAMMAD AMIR"
+  },
+  {
+    "rollNumber": 100788,
+    "name": "MEHWISH ZAHID",
+    "fatherName": "ZAHID HUSSAIN"
+  },
+  {
+    "rollNumber": 100789,
+    "name": "SANIA BIBI",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 100790,
+    "name": "HUMAIRA WAHEED",
+    "fatherName": "ABDUL WAHEED"
+  },
+  {
+    "rollNumber": 100791,
+    "name": "KIRAN SHAHEEN",
+    "fatherName": "ALLAH WADHAYA"
+  },
+  {
+    "rollNumber": 100792,
+    "name": "MARYAM KHALID",
+    "fatherName": "KHALID NAWAZ"
+  },
+  {
+    "rollNumber": 100793,
+    "name": "SHUMAILA TARIQ",
+    "fatherName": "MUHAMMAD TARIQ"
+  },
+  {
+    "rollNumber": 100794,
+    "name": "MINAHIL NAVEED",
+    "fatherName": "MUHAMMAD NAVEED"
+  },
+  {
+    "rollNumber": 100795,
+    "name": "KAINAT",
+    "fatherName": "RIAZ AHMAD"
+  },
+  {
+    "rollNumber": 100796,
+    "name": "RUKHSAR",
+    "fatherName": "NADEEM ANJUM"
+  },
+  {
+    "rollNumber": 100797,
+    "name": "MEERAB ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD ABID"
+  },
+  {
+    "rollNumber": 100798,
+    "name": "SEHAR FATIMA",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 100799,
+    "name": "ZALIA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100800,
+    "name": "ALISHBA",
+    "fatherName": "MUHAMMAD MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 100801,
+    "name": "RABIA SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100802,
+    "name": "BALQEES MALIK",
+    "fatherName": "ABDUL MALIK JAVED"
+  },
+  {
+    "rollNumber": 100803,
+    "name": "JAVERIA SABIR",
+    "fatherName": "MUHAMMAD SABIR"
+  },
+  {
+    "rollNumber": 100804,
+    "name": "RAMEESA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100805,
+    "name": "ALISHBA WASEEM",
+    "fatherName": "WASEEM SHEHZAD"
+  },
+  {
+    "rollNumber": 100806,
+    "name": "NOOR  FATIMA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100807,
+    "name": "HAFSA",
+    "fatherName": "ASAD BASHIR BUTT"
+  },
+  {
+    "rollNumber": 100808,
+    "name": "SANIA",
+    "fatherName": "AMANAT ALI"
+  },
+  {
+    "rollNumber": 100809,
+    "name": "RABIA",
+    "fatherName": "MUJAMMAD ISMAEEL"
+  },
+  {
+    "rollNumber": 100810,
+    "name": "ASMA AYOUB",
+    "fatherName": "MUHAMMAD AYOUB"
+  },
+  {
+    "rollNumber": 100811,
+    "name": "JAVERIA AFTAB",
+    "fatherName": "AFTAB AHMAD"
+  },
+  {
+    "rollNumber": 100812,
+    "name": "HABIBA MUNAZZA",
+    "fatherName": "MUHAMMAD IBRAHIM AWAN"
+  },
+  {
+    "rollNumber": 100813,
+    "name": "SUMAIRA AMEEN",
+    "fatherName": "M AMEEN"
+  },
+  {
+    "rollNumber": 100814,
+    "name": "MARYUM BIBI",
+    "fatherName": "AFZAL MEHMOOD ASIM"
+  },
+  {
+    "rollNumber": 100815,
+    "name": "SHANZA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100816,
+    "name": "SEHAR BIBI",
+    "fatherName": "SAKHAWAT ALI"
+  },
+  {
+    "rollNumber": 100817,
+    "name": "MEHAK",
+    "fatherName": "MUHAMMAD ASIF SHABBIR"
+  },
+  {
+    "rollNumber": 100818,
+    "name": "MARYAM FATIMA",
+    "fatherName": "ZAHID SAEED"
+  },
+  {
+    "rollNumber": 100819,
+    "name": "MOMNA HUSSAIN",
+    "fatherName": "RAJA ZAHID HUSSAIN KAMAL"
+  },
+  {
+    "rollNumber": 100820,
+    "name": "RUBINA SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100821,
+    "name": "SHUMAILA",
+    "fatherName": "MUSHTAQ AHMAD"
+  },
+  {
+    "rollNumber": 100822,
+    "name": "SALEHA HASSAN",
+    "fatherName": "TANVEER HASSAN KHAN"
+  },
+  {
+    "rollNumber": 100823,
+    "name": "FARIA RASHID",
+    "fatherName": "RASHID ALI"
+  },
+  {
+    "rollNumber": 100824,
+    "name": "ALEENA AKHTAR",
+    "fatherName": "MUHAMMAD AKHTAR"
+  },
+  {
+    "rollNumber": 100825,
+    "name": "SANIA SULTAN",
+    "fatherName": "MUHAMMAD SULTAN"
+  },
+  {
+    "rollNumber": 100826,
+    "name": "AREESHA RANA",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100827,
+    "name": "FAREEHA TAHIR",
+    "fatherName": "TAHIR MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 100828,
+    "name": "AYESHA SAIF",
+    "fatherName": "SAIF ULLAH"
+  },
+  {
+    "rollNumber": 100829,
+    "name": "TAIBA",
+    "fatherName": "NIAZ DIN"
+  },
+  {
+    "rollNumber": 100830,
+    "name": "FAIZA BATOOL",
+    "fatherName": "MUHAMMAD  ASLAM"
+  },
+  {
+    "rollNumber": 100831,
+    "name": "SADIA",
+    "fatherName": "ZAKIR ALI"
+  },
+  {
+    "rollNumber": 100832,
+    "name": "TANZILA YASEEN",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 100833,
+    "name": "ALEENA RASHEED",
+    "fatherName": "RASHEED MASEEH"
+  },
+  {
+    "rollNumber": 100834,
+    "name": "TOOBA EMAAN LODHI",
+    "fatherName": "AMANAT ALI"
+  },
+  {
+    "rollNumber": 100835,
+    "name": "IMAN FATIMA",
+    "fatherName": "MUHAMMAD RAZZAQ"
+  },
+  {
+    "rollNumber": 100836,
+    "name": "RABIA ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100837,
+    "name": "ASMA",
+    "fatherName": "NIAMAT ALI"
+  },
+  {
+    "rollNumber": 100838,
+    "name": "MARIA  BASHIR",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 100839,
+    "name": "TOOBA EJAZ",
+    "fatherName": "MUHAMMAD EJAZ AHMAD"
+  },
+  {
+    "rollNumber": 100840,
+    "name": "FIZA NOOR",
+    "fatherName": "SHERAZ ALI"
+  },
+  {
+    "rollNumber": 100841,
+    "name": "AMNA",
+    "fatherName": "NASRULLAH KHAN"
+  },
+  {
+    "rollNumber": 100842,
+    "name": "FALAK NAZ",
+    "fatherName": "SYED RIAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 100843,
+    "name": "SARA NAEEM",
+    "fatherName": "NAEEM HAIDAR"
+  },
+  {
+    "rollNumber": 100844,
+    "name": "NAILA GHULAM RASOOL",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 100845,
+    "name": "NOOR UL AIN SOHAIL",
+    "fatherName": "MUHAMMAD SOHAIL AFZAL"
+  },
+  {
+    "rollNumber": 100846,
+    "name": "LAIBA",
+    "fatherName": "AL HASAN IQBAL"
+  },
+  {
+    "rollNumber": 100847,
+    "name": "MARYAM BASHIR AHMED",
+    "fatherName": "BASHIR AHMED"
+  },
+  {
+    "rollNumber": 100848,
+    "name": "HAFEEZA AZAM",
+    "fatherName": "AZAM ALI"
+  },
+  {
+    "rollNumber": 100849,
+    "name": "SEHAR GHAFOOR",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 100850,
+    "name": "FIZA RANI",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 100851,
+    "name": "MAHNOOR FATIMA",
+    "fatherName": "NADEEM SHAHID"
+  },
+  {
+    "rollNumber": 100852,
+    "name": "ANEEQA AMAN",
+    "fatherName": "AMANULLAH"
+  },
+  {
+    "rollNumber": 100853,
+    "name": "BISMA ZUBAIR",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 100854,
+    "name": "SADAF SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100855,
+    "name": "EMAN FATIMA",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100856,
+    "name": "MARYAM IRSHAD",
+    "fatherName": "IRSHAD"
+  },
+  {
+    "rollNumber": 100857,
+    "name": "MAUFIA PAKEEZA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 100858,
+    "name": "SARA RANI",
+    "fatherName": "FAIZ AHMAD"
+  },
+  {
+    "rollNumber": 100859,
+    "name": "AYESHA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100860,
+    "name": "AMNA TUFAIL",
+    "fatherName": "MUHAMMAD TUFAIL"
+  },
+  {
+    "rollNumber": 100861,
+    "name": "HANNA",
+    "fatherName": "EMMANUEL"
+  },
+  {
+    "rollNumber": 100862,
+    "name": "AQSA MUSHTAQ",
+    "fatherName": "MUSHTAQ ALI"
+  },
+  {
+    "rollNumber": 100863,
+    "name": "TAYYABA",
+    "fatherName": "MUHAMMAD INAM ULLAH"
+  },
+  {
+    "rollNumber": 100864,
+    "name": "ANSA MUNIR",
+    "fatherName": "MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 100865,
+    "name": "MAHAK GULL",
+    "fatherName": "ASIF HANIF"
+  },
+  {
+    "rollNumber": 100866,
+    "name": "MUSKAN SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100867,
+    "name": "MAHNOOR",
+    "fatherName": "MUHAMMAD AFZAL KHAN"
+  },
+  {
+    "rollNumber": 100868,
+    "name": "KHADIJA SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100869,
+    "name": "EMAN FATIMA",
+    "fatherName": "IBRAR HUSAIN"
+  },
+  {
+    "rollNumber": 100870,
+    "name": "AREEBA TARIQ",
+    "fatherName": "MUHAMMAD TARIQ"
+  },
+  {
+    "rollNumber": 100871,
+    "name": "KAINAT",
+    "fatherName": "YOUNAS"
+  },
+  {
+    "rollNumber": 100872,
+    "name": "SABHAT ISHAQ",
+    "fatherName": "M ISHAQ SAQI"
+  },
+  {
+    "rollNumber": 100873,
+    "name": "SANA NASIR",
+    "fatherName": "NASIR"
+  },
+  {
+    "rollNumber": 100874,
+    "name": "NEHA ALI",
+    "fatherName": "SHAFAQAT ALI"
+  },
+  {
+    "rollNumber": 100875,
+    "name": "ALISHA ALI",
+    "fatherName": "ASHIQ ALI"
+  },
+  {
+    "rollNumber": 100876,
+    "name": "RABIA NASEER",
+    "fatherName": "NASEER AHMAD"
+  },
+  {
+    "rollNumber": 100877,
+    "name": "AASMA ZAHID",
+    "fatherName": "RANA ZAHID HUSSAIN"
+  },
+  {
+    "rollNumber": 100878,
+    "name": "SARA",
+    "fatherName": "SHOUKAT MASIH"
+  },
+  {
+    "rollNumber": 100879,
+    "name": "MANAHIL JAVED",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100880,
+    "name": "FAIZA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 100881,
+    "name": "KASHAF ASIF",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 100882,
+    "name": "MARYAM BIBI",
+    "fatherName": "HAFEEZ U REHMAN"
+  },
+  {
+    "rollNumber": 100883,
+    "name": "SONIA USMAN",
+    "fatherName": "USMAN RAHEEM"
+  },
+  {
+    "rollNumber": 100884,
+    "name": "SAWERA JAFAR",
+    "fatherName": "JAFAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100885,
+    "name": "ZAINAB BIBI",
+    "fatherName": "MUNAWAR AHMAD SHEHZAD"
+  },
+  {
+    "rollNumber": 100886,
+    "name": "AMNA SHAHID",
+    "fatherName": "SHAHID MEHMOOD"
+  },
+  {
+    "rollNumber": 100887,
+    "name": "SALEENA",
+    "fatherName": "PARVAIZ MASIH"
+  },
+  {
+    "rollNumber": 100888,
+    "name": "RIMSHA SHABIR",
+    "fatherName": "GHULAM SHABIR"
+  },
+  {
+    "rollNumber": 100889,
+    "name": "MUBARA HAMID",
+    "fatherName": "MUHAMMAD HAMID KHAN"
+  },
+  {
+    "rollNumber": 100890,
+    "name": "FAJAR JAVED",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100891,
+    "name": "KAYNAT SHAHZADI",
+    "fatherName": "SYED GHULAM MUNIR SHAH"
+  },
+  {
+    "rollNumber": 100892,
+    "name": "BUSHRA TAHIR",
+    "fatherName": "TAHIR FAROOQ"
+  },
+  {
+    "rollNumber": 100893,
+    "name": "MAHAM SHABBIR",
+    "fatherName": "SHABBIR AHMAD"
+  },
+  {
+    "rollNumber": 100894,
+    "name": "ARZOO",
+    "fatherName": "SHABAZ MASIH"
+  },
+  {
+    "rollNumber": 100895,
+    "name": "ZAINAB SULTAN",
+    "fatherName": "ABDUL SATTAR SHAHEEN"
+  },
+  {
+    "rollNumber": 100896,
+    "name": "SAWRAIA",
+    "fatherName": "NAVEED MASIH"
+  },
+  {
+    "rollNumber": 100897,
+    "name": "AYESHA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100898,
+    "name": "ASIA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 100899,
+    "name": "SADIA RAFI",
+    "fatherName": "MUHAMMAD RAFI"
+  },
+  {
+    "rollNumber": 100900,
+    "name": "ALEEZA YASIN",
+    "fatherName": "MUHAMMAD YASIN"
+  },
+  {
+    "rollNumber": 100901,
+    "name": "SAMIA ARZO",
+    "fatherName": "MUHAMMAD HANEEF"
+  },
+  {
+    "rollNumber": 100902,
+    "name": "AYESHA RASHID",
+    "fatherName": "RASHID JAVED"
+  },
+  {
+    "rollNumber": 100903,
+    "name": "MAHNOOR",
+    "fatherName": "AMIR RIAZ"
+  },
+  {
+    "rollNumber": 100904,
+    "name": "TAYYABA TAHIR",
+    "fatherName": "TAHIR IMRAN"
+  },
+  {
+    "rollNumber": 100905,
+    "name": "SHUMAILA",
+    "fatherName": "ZULFIQAR MASHI"
+  },
+  {
+    "rollNumber": 100906,
+    "name": "MARYAM",
+    "fatherName": "ABID NAVEED"
+  },
+  {
+    "rollNumber": 100907,
+    "name": "ANEETA",
+    "fatherName": "NEAMAT MASIH"
+  },
+  {
+    "rollNumber": 100908,
+    "name": "YASHAL EMAN",
+    "fatherName": "MUHAMMAD MUSHTAQ ASIM"
+  },
+  {
+    "rollNumber": 100909,
+    "name": "EMAN FATIMA",
+    "fatherName": "HAQ NAWAZ"
+  },
+  {
+    "rollNumber": 100910,
+    "name": "MINAHIL CHAUDHRY",
+    "fatherName": "MUHAMMAD AMJAD CHAUDHRY"
+  },
+  {
+    "rollNumber": 100911,
+    "name": "RIMSHA ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 100912,
+    "name": "RUBIA NAZIR",
+    "fatherName": "NAZIR AHMAD"
+  },
+  {
+    "rollNumber": 100913,
+    "name": "SOBIA BIBI",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 100914,
+    "name": "AQSA MOHIB",
+    "fatherName": "MOHIB ULLAH"
+  },
+  {
+    "rollNumber": 100915,
+    "name": "SAMREEN SHABIR",
+    "fatherName": "SHABIR AHMAD"
+  },
+  {
+    "rollNumber": 100916,
+    "name": "NISHA SHAFIQ",
+    "fatherName": "MUHAMMAD SHAFIQ"
+  },
+  {
+    "rollNumber": 100917,
+    "name": "ALISHA",
+    "fatherName": "WALI MUHAMMAD"
+  },
+  {
+    "rollNumber": 100918,
+    "name": "ANAM BATOOL",
+    "fatherName": "ALLAH DEEN"
+  },
+  {
+    "rollNumber": 100919,
+    "name": "ALISHA SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100920,
+    "name": "AYMEN NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 100921,
+    "name": "AYESHA RUMAN",
+    "fatherName": "AFZAL HAQ"
+  },
+  {
+    "rollNumber": 100922,
+    "name": "FATIMA TUZ ZAHRA",
+    "fatherName": "MUHAMMAD AWAIS SAADI"
+  },
+  {
+    "rollNumber": 100924,
+    "name": "ZAINAB SOHAIL",
+    "fatherName": "MUHAMMAD SOHAIL AFZAL"
+  },
+  {
+    "rollNumber": 100925,
+    "name": "MOMAN BIBI",
+    "fatherName": "TANVIR HUSSAIN"
+  },
+  {
+    "rollNumber": 100926,
+    "name": "ESHAL ZEESHAN",
+    "fatherName": "ZEESHAN ISHAQ"
+  },
+  {
+    "rollNumber": 100927,
+    "name": "ASIFA JABBAR",
+    "fatherName": "ABDUL  JABBAR"
+  },
+  {
+    "rollNumber": 100928,
+    "name": "FATIMA SHEHZADI",
+    "fatherName": "NAZIR HUSSAIN"
+  },
+  {
+    "rollNumber": 100929,
+    "name": "NOOR FATIMA",
+    "fatherName": "NAEEM ULLAH"
+  },
+  {
+    "rollNumber": 100930,
+    "name": "SHAN E ZARA",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 100931,
+    "name": "RIFFAT SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 100932,
+    "name": "ALIZA NASEEM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100933,
+    "name": "MUSKAN",
+    "fatherName": "RAFIQUE MASIH"
+  },
+  {
+    "rollNumber": 100934,
+    "name": "LAIBA RAFIQ",
+    "fatherName": "MUHAMMAD RAFIQ"
+  },
+  {
+    "rollNumber": 100935,
+    "name": "AYESHA AYUB",
+    "fatherName": "MUHAMMAD AYUB"
+  },
+  {
+    "rollNumber": 100936,
+    "name": "LAIBA QAISAR",
+    "fatherName": "QAISAR SALEEM"
+  },
+  {
+    "rollNumber": 100937,
+    "name": "ALLAH MAFI",
+    "fatherName": "NU BAHAR"
+  },
+  {
+    "rollNumber": 100938,
+    "name": "EMAN FATIMA",
+    "fatherName": "MUHAMMAD NAVEED ANJM"
+  },
+  {
+    "rollNumber": 100939,
+    "name": "ALEESHA FAREED",
+    "fatherName": "QURBAN FAREED"
+  },
+  {
+    "rollNumber": 100940,
+    "name": "MAHNOOR NASEEM",
+    "fatherName": "GHULAM MUHAMMAD"
+  },
+  {
+    "rollNumber": 100941,
+    "name": "MEHWISH",
+    "fatherName": "M JAVED AKHTAR"
+  },
+  {
+    "rollNumber": 100942,
+    "name": "ADEEBA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 100943,
+    "name": "HANNA IMRAN",
+    "fatherName": "IMRAN KHURAM"
+  },
+  {
+    "rollNumber": 100944,
+    "name": "UNAIZA",
+    "fatherName": "BASHARAT ALI SHUJA"
+  },
+  {
+    "rollNumber": 100945,
+    "name": "ALISHAH MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 100946,
+    "name": "SABA BIBI",
+    "fatherName": "MOHSIN ALI"
+  },
+  {
+    "rollNumber": 100947,
+    "name": "SAMIYA KHANAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 100948,
+    "name": "SADIA AMJAD",
+    "fatherName": "MUHAMMAD AMJAD ALI"
+  },
+  {
+    "rollNumber": 100949,
+    "name": "ZAINAB GILLANI",
+    "fatherName": "SYED SHAHID  ALI SHAH GILLANI"
+  },
+  {
+    "rollNumber": 100950,
+    "name": "NIDA GULZAR",
+    "fatherName": "GULZAR AHMAD"
+  },
+  {
+    "rollNumber": 100951,
+    "name": "HABIBA TAHIR",
+    "fatherName": "MUHAMMAD TAHIR"
+  },
+  {
+    "rollNumber": 100952,
+    "name": "ALIHA GULSHAN",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 100953,
+    "name": "ZUNAIRA ABID",
+    "fatherName": "ABID MUSHTAQ"
+  },
+  {
+    "rollNumber": 100954,
+    "name": "SINDIA",
+    "fatherName": "PATRIS MASIH"
+  },
+  {
+    "rollNumber": 100955,
+    "name": "TAIBA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 100956,
+    "name": "AZKA KHALID",
+    "fatherName": "MUHAMMAD KHALID AZIZ"
+  },
+  {
+    "rollNumber": 100957,
+    "name": "AFIFA QAYYUM",
+    "fatherName": "ABDUL QAYYUM"
+  },
+  {
+    "rollNumber": 100958,
+    "name": "UME RUBAB",
+    "fatherName": "EJAZ ALI"
+  },
+  {
+    "rollNumber": 100959,
+    "name": "NAVEERA BILAL RAO",
+    "fatherName": "BABAR BILAL MUHAMMAD"
+  },
+  {
+    "rollNumber": 100960,
+    "name": "MISHA",
+    "fatherName": "MARCUS MASIH"
+  },
+  {
+    "rollNumber": 100961,
+    "name": "AMNA SHAMSHAD",
+    "fatherName": "MUHAMMAD SHAMSHAD"
+  },
+  {
+    "rollNumber": 100962,
+    "name": "HAREEM ZAINAB",
+    "fatherName": "RAO SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 100963,
+    "name": "MARYAM ABID HUSSAIN",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 100964,
+    "name": "TOOBA",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 100965,
+    "name": "AYESHA SADDIQA",
+    "fatherName": "ALI SHER"
+  },
+  {
+    "rollNumber": 100966,
+    "name": "JAWERIA QAISER",
+    "fatherName": "SOHAIL QAISER GHANI"
+  },
+  {
+    "rollNumber": 100967,
+    "name": "ZAINAB KHURAM",
+    "fatherName": "KHURAM AZEEM"
+  },
+  {
+    "rollNumber": 100968,
+    "name": "ANEELA",
+    "fatherName": "NADEEM AHMAD"
+  },
+  {
+    "rollNumber": 100969,
+    "name": "MISHAL",
+    "fatherName": "MUHAMMAD IRSHAD"
+  },
+  {
+    "rollNumber": 100970,
+    "name": "MARYAM WASEEM",
+    "fatherName": "WASEEM SHAHID"
+  },
+  {
+    "rollNumber": 100971,
+    "name": "ANIQA CHAUDHRY",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100972,
+    "name": "KAINAT MUNIR",
+    "fatherName": "MUHAMMAD MUNIR"
+  },
+  {
+    "rollNumber": 100973,
+    "name": "SYEDA ALINA JAVED",
+    "fatherName": "SYED JAVED ALI SHAH"
+  },
+  {
+    "rollNumber": 100974,
+    "name": "FIZA AKHTAR",
+    "fatherName": "AKHTAR ALI"
+  },
+  {
+    "rollNumber": 100975,
+    "name": "SAWAIRA",
+    "fatherName": "SAJJAD HUSSAIN"
+  },
+  {
+    "rollNumber": 100976,
+    "name": "TEHMINA YASMIN",
+    "fatherName": "SHABBIR AHMED"
+  },
+  {
+    "rollNumber": 100977,
+    "name": "MANAHIL",
+    "fatherName": "SHAHBAZ MASIH"
+  },
+  {
+    "rollNumber": 100978,
+    "name": "JAWARIA TALIB",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 100979,
+    "name": "BISMA",
+    "fatherName": "BISMILLAH"
+  },
+  {
+    "rollNumber": 100980,
+    "name": "MARYAM BIBI",
+    "fatherName": "GHAFOOR"
+  },
+  {
+    "rollNumber": 100981,
+    "name": "BISMA KHALID",
+    "fatherName": "RAO KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 100982,
+    "name": "FIZA NAWAZ",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 100984,
+    "name": "FARIA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 100985,
+    "name": "FIZA BATOOL",
+    "fatherName": "ZAWAR HUSSAIN"
+  },
+  {
+    "rollNumber": 100986,
+    "name": "ANADIL QADIR",
+    "fatherName": "GHULAM QADIR"
+  },
+  {
+    "rollNumber": 100987,
+    "name": "RAHEELA NAIK",
+    "fatherName": "NAIK MUHAMMAD"
+  },
+  {
+    "rollNumber": 100988,
+    "name": "SADIA RASOOL",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 100989,
+    "name": "MAHREEN MUSHTAQ",
+    "fatherName": "MUSHTAQ AHMED"
+  },
+  {
+    "rollNumber": 100990,
+    "name": "AMINA",
+    "fatherName": "KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 100991,
+    "name": "MINAHIL",
+    "fatherName": "MUKHTAR AHMAD"
+  },
+  {
+    "rollNumber": 100992,
+    "name": "ALEEHA",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 100993,
+    "name": "SOFIA MEHBOOB ALAM",
+    "fatherName": "MEHBOOB ALAM"
+  },
+  {
+    "rollNumber": 100994,
+    "name": "TEHMINA YOUNAS",
+    "fatherName": "YOUNAS MASIH"
+  },
+  {
+    "rollNumber": 100995,
+    "name": "FIZA SHAHBAZ",
+    "fatherName": "MUHAMMAD SHAHBAZ JAVED"
+  },
+  {
+    "rollNumber": 100996,
+    "name": "MEERAB ZAHID",
+    "fatherName": "MUHAMMAD ZAHID"
+  },
+  {
+    "rollNumber": 100997,
+    "name": "RABIA AZHAR",
+    "fatherName": "AZHAR NAWAZ"
+  },
+  {
+    "rollNumber": 100998,
+    "name": "ZAHRA FATIMA",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 100999,
+    "name": "YASHFA ABBAS",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 101000,
+    "name": "ALIHA",
+    "fatherName": "JAVED IQBAL"
+  },
+  {
+    "rollNumber": 101001,
+    "name": "MEHWISH ABDUL KHALIQ",
+    "fatherName": "ABDUL KHALIQ"
+  },
+  {
+    "rollNumber": 101002,
+    "name": "EMAN FATIMA",
+    "fatherName": "MUHAMMAD SHAHID AKHTAR"
+  },
+  {
+    "rollNumber": 101003,
+    "name": "AFSHEEN MURTAZA",
+    "fatherName": "MURTAZA SAHIB"
+  },
+  {
+    "rollNumber": 101004,
+    "name": "UM E ROOMAN",
+    "fatherName": "MUHAMMAD SHAMOON"
+  },
+  {
+    "rollNumber": 101005,
+    "name": "AJWA  ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101006,
+    "name": "RABIA TABASSAM",
+    "fatherName": "MALA KHAN SHER"
+  },
+  {
+    "rollNumber": 101007,
+    "name": "SAWERA BIBI",
+    "fatherName": "SAKHAWAT ALI"
+  },
+  {
+    "rollNumber": 101008,
+    "name": "MEHAR AFROZ",
+    "fatherName": "MIRZA HAFEEZ ULLAH BAIG"
+  },
+  {
+    "rollNumber": 101009,
+    "name": "JAVERIA AMJAD",
+    "fatherName": "AMJAD FAROOQ"
+  },
+  {
+    "rollNumber": 101010,
+    "name": "RABIYA",
+    "fatherName": "BABER ALI"
+  },
+  {
+    "rollNumber": 101011,
+    "name": "RIMLA  AMJID",
+    "fatherName": "MUHAMMAD AMJID"
+  },
+  {
+    "rollNumber": 101012,
+    "name": "EMAN NAWAZ",
+    "fatherName": "RUB NAWAZ"
+  },
+  {
+    "rollNumber": 101013,
+    "name": "MAMOONA NAWAZ",
+    "fatherName": "RUB NAWAZ"
+  },
+  {
+    "rollNumber": 101014,
+    "name": "ZUBAIDA AKBAR",
+    "fatherName": "MUHAMMAD AKBAR"
+  },
+  {
+    "rollNumber": 101015,
+    "name": "MIRAB JAVED",
+    "fatherName": "MUHAMMAD JAVED"
+  },
+  {
+    "rollNumber": 101016,
+    "name": "SAWERA ABID",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 101017,
+    "name": "WARDA WASEEM",
+    "fatherName": "WASEEM SARWAR"
+  },
+  {
+    "rollNumber": 101018,
+    "name": "SADIA NAWAZ",
+    "fatherName": "HAQ NAWAZ"
+  },
+  {
+    "rollNumber": 101019,
+    "name": "MEHAK FATIMA",
+    "fatherName": "MUJEEB ALAM"
+  },
+  {
+    "rollNumber": 101020,
+    "name": "IQRA WARIS",
+    "fatherName": "WARIS ALI"
+  },
+  {
+    "rollNumber": 101021,
+    "name": "SADIA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101022,
+    "name": "AREEBA IJAZ",
+    "fatherName": "MUHAMMAD IJAZ"
+  },
+  {
+    "rollNumber": 101023,
+    "name": "RABEEA",
+    "fatherName": "RAI MUHAMMAD IKRAM"
+  },
+  {
+    "rollNumber": 101024,
+    "name": "AYESHA IRFAN",
+    "fatherName": "IRFAN SHARIF"
+  },
+  {
+    "rollNumber": 101025,
+    "name": "SAWERA FALAK SHAIR",
+    "fatherName": "RANA FALAK SHAIR"
+  },
+  {
+    "rollNumber": 101026,
+    "name": "EESHA",
+    "fatherName": "ALLAH RAKHA"
+  },
+  {
+    "rollNumber": 101027,
+    "name": "SADAF BATOOL",
+    "fatherName": "MUHAMMAD ZAFAR"
+  },
+  {
+    "rollNumber": 101028,
+    "name": "ALISHBA JAVED",
+    "fatherName": "SYED JAVED AKHTAR"
+  },
+  {
+    "rollNumber": 101029,
+    "name": "MAHNOOR SAEED",
+    "fatherName": "MUHAMMAD SAEED"
+  },
+  {
+    "rollNumber": 101030,
+    "name": "AMNA SHAFIQUE",
+    "fatherName": "MUHAMMAD SHAFIQUE"
+  },
+  {
+    "rollNumber": 101031,
+    "name": "RIMSHA SHAHEEN",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 101032,
+    "name": "LAIBA JABBAR",
+    "fatherName": "JABBAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101033,
+    "name": "CHAHAT",
+    "fatherName": "MAQBOOL"
+  },
+  {
+    "rollNumber": 101034,
+    "name": "UME HAFSA",
+    "fatherName": "MUHAMMAD IBRAHIM"
+  },
+  {
+    "rollNumber": 101035,
+    "name": "RIMSHA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 101036,
+    "name": "MALAIKA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 101037,
+    "name": "NATASHA BIBI",
+    "fatherName": "ISHAQ MASIH"
+  },
+  {
+    "rollNumber": 101038,
+    "name": "ALEENA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101039,
+    "name": "AYESHA ASIF",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 101040,
+    "name": "RABIA ASHFAQ",
+    "fatherName": "MUHAMMAD ASHFAQ"
+  },
+  {
+    "rollNumber": 101041,
+    "name": "NIMRA NADEEM",
+    "fatherName": "KASHIF NADEEM"
+  },
+  {
+    "rollNumber": 101042,
+    "name": "MAFIA SIDDIQUE",
+    "fatherName": "MUHAMMAD SIDDIQUE"
+  },
+  {
+    "rollNumber": 101043,
+    "name": "HINA AFTAB",
+    "fatherName": "AFTAB AHMAD"
+  },
+  {
+    "rollNumber": 101044,
+    "name": "ALISHA ISHAQ",
+    "fatherName": "MUHAMMAD ISHAQ"
+  },
+  {
+    "rollNumber": 101045,
+    "name": "SHAFIA EMAAN",
+    "fatherName": "BABAR ALI"
+  },
+  {
+    "rollNumber": 101046,
+    "name": "AREEJ FATIMA",
+    "fatherName": "MUHAMMAD ASHFAQ"
+  },
+  {
+    "rollNumber": 101047,
+    "name": "MAHRUKH AMJAD",
+    "fatherName": "AMJAD IQBAL"
+  },
+  {
+    "rollNumber": 101048,
+    "name": "FIZA NASEEB",
+    "fatherName": "MUHAMMAD NASEEB"
+  },
+  {
+    "rollNumber": 101049,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD RASHID"
+  },
+  {
+    "rollNumber": 101050,
+    "name": "SABA",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 101051,
+    "name": "IQRA SHEHZADI",
+    "fatherName": "GULZAR AHMAD"
+  },
+  {
+    "rollNumber": 101052,
+    "name": "SAWERA NAZEER",
+    "fatherName": "NAZEER AHMAD"
+  },
+  {
+    "rollNumber": 101053,
+    "name": "KHADIJA",
+    "fatherName": "MUHAMMAD IRFAN"
+  },
+  {
+    "rollNumber": 101054,
+    "name": "SEHAR RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101055,
+    "name": "SHEENA KAUSER",
+    "fatherName": "YASIN"
+  },
+  {
+    "rollNumber": 101056,
+    "name": "ESHA MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 101057,
+    "name": "RUKHSAR SALAHUDIN",
+    "fatherName": "SALAHUDIN"
+  },
+  {
+    "rollNumber": 101058,
+    "name": "NISA JAMEEL",
+    "fatherName": "MUHAMMAD JAMEEL"
+  },
+  {
+    "rollNumber": 101059,
+    "name": "ALISHA FATIMA",
+    "fatherName": "MUHAMMAD SHAHZAD"
+  },
+  {
+    "rollNumber": 101060,
+    "name": "HUDA AKRAM",
+    "fatherName": "AKRAM ALI"
+  },
+  {
+    "rollNumber": 101061,
+    "name": "ESHA NAEEM",
+    "fatherName": "MUHAMMAD NAEEM"
+  },
+  {
+    "rollNumber": 101062,
+    "name": "SAIRA",
+    "fatherName": "SHABBIR AHMAD"
+  },
+  {
+    "rollNumber": 101063,
+    "name": "MAHAM SOHAIL",
+    "fatherName": "SOHAIL IQBAL"
+  },
+  {
+    "rollNumber": 101064,
+    "name": "WARDA DILSHAD",
+    "fatherName": "DILSHAD ALI"
+  },
+  {
+    "rollNumber": 101065,
+    "name": "AROOJ SARFRAZ",
+    "fatherName": "SARFRAZ AHMAD"
+  },
+  {
+    "rollNumber": 101066,
+    "name": "DANIYA",
+    "fatherName": "ALI RAZA"
+  },
+  {
+    "rollNumber": 101067,
+    "name": "ADAN IMDAD",
+    "fatherName": "IMDAD UR REHMAN"
+  },
+  {
+    "rollNumber": 101068,
+    "name": "SADIA NAWAB",
+    "fatherName": "NAWAB ALI"
+  },
+  {
+    "rollNumber": 101069,
+    "name": "ALEENA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101070,
+    "name": "SANA RANI",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101071,
+    "name": "IRAM KOMAL",
+    "fatherName": "JAVAID MASIH"
+  },
+  {
+    "rollNumber": 101072,
+    "name": "KIRAN",
+    "fatherName": "BOOTA MASIH"
+  },
+  {
+    "rollNumber": 101073,
+    "name": "IQRA NADEEM",
+    "fatherName": "NADEEM"
+  },
+  {
+    "rollNumber": 101074,
+    "name": "MAMNOON FATIMA",
+    "fatherName": "MUHAMMAD ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 101075,
+    "name": "AZKA",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 101076,
+    "name": "IQRA ZAINAB",
+    "fatherName": "MUHAMMAD ISHAQ"
+  },
+  {
+    "rollNumber": 101077,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD BOOTA"
+  },
+  {
+    "rollNumber": 101078,
+    "name": "TAHIRA FARMAN",
+    "fatherName": "FARMAN ALI"
+  },
+  {
+    "rollNumber": 101079,
+    "name": "MAHNOOR",
+    "fatherName": "SAJJAD AHMED"
+  },
+  {
+    "rollNumber": 101080,
+    "name": "KIRAN SALEEM",
+    "fatherName": "SALEEM RAZA"
+  },
+  {
+    "rollNumber": 101081,
+    "name": "KINZA MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ ASIM"
+  },
+  {
+    "rollNumber": 101082,
+    "name": "PUSHPA ANTONIA",
+    "fatherName": "SHAHBAZ"
+  },
+  {
+    "rollNumber": 101083,
+    "name": "IQRA TABASSUM",
+    "fatherName": "MUHAMMAD IRFAN"
+  },
+  {
+    "rollNumber": 101084,
+    "name": "EMAN ALI",
+    "fatherName": "RASHID ALI"
+  },
+  {
+    "rollNumber": 101085,
+    "name": "PAKEEZA NOREEN",
+    "fatherName": "LAL HUSSAIN"
+  },
+  {
+    "rollNumber": 101086,
+    "name": "WAJEEHA FAHEEM",
+    "fatherName": "FAHEEM TABSSUM RAZA"
+  },
+  {
+    "rollNumber": 101087,
+    "name": "LAIBA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 101088,
+    "name": "ANEESA ABBAS",
+    "fatherName": "GHULAM ABBAS"
+  },
+  {
+    "rollNumber": 101089,
+    "name": "MEHMOONA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 101090,
+    "name": "NAZIFA AKHTAR",
+    "fatherName": "MUHAMMAD TUFAIL AKHTAR"
+  },
+  {
+    "rollNumber": 101091,
+    "name": "JAVERIA MUNIR",
+    "fatherName": "MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 101092,
+    "name": "TAYBA AHMAD",
+    "fatherName": "ZAHID MEHBOOB"
+  },
+  {
+    "rollNumber": 101093,
+    "name": "DURRE MAQNOON",
+    "fatherName": "MUNEEB AHMAD NASIR"
+  },
+  {
+    "rollNumber": 101094,
+    "name": "HIRA BATOOL",
+    "fatherName": "MUHAMMAD ISMAIL"
+  },
+  {
+    "rollNumber": 101095,
+    "name": "AYESHA SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 101096,
+    "name": "SANA ZUBAIR",
+    "fatherName": "MUHAMMAD ZUBAIR"
+  },
+  {
+    "rollNumber": 101097,
+    "name": "HALEEMA SADIA",
+    "fatherName": "MUHAMMAD SHAREEF"
+  },
+  {
+    "rollNumber": 101098,
+    "name": "MAHREEN SHOUKAT",
+    "fatherName": "MUHAMMAD SHOUKAT"
+  },
+  {
+    "rollNumber": 101099,
+    "name": "MINAHIL FATIMA",
+    "fatherName": "FAISAL IQBAL"
+  },
+  {
+    "rollNumber": 101100,
+    "name": "FIZA SHAFIQ",
+    "fatherName": "SHAFIQ AHMAD"
+  },
+  {
+    "rollNumber": 101101,
+    "name": "SHABNUM",
+    "fatherName": "MUKHTAR AHMAD"
+  },
+  {
+    "rollNumber": 101102,
+    "name": "ANEEBA ZULFQAR",
+    "fatherName": "ZULFQAR ALI"
+  },
+  {
+    "rollNumber": 101103,
+    "name": "SEHAR SAJID",
+    "fatherName": "SAJID MASEEH"
+  },
+  {
+    "rollNumber": 101104,
+    "name": "AFNAN FATIMA",
+    "fatherName": "SAAD ULLAH SADIQ"
+  },
+  {
+    "rollNumber": 101105,
+    "name": "MEHWISH",
+    "fatherName": "ABDUL RASHEED"
+  },
+  {
+    "rollNumber": 101106,
+    "name": "ZAHRA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101107,
+    "name": "MINAHIL EMAN",
+    "fatherName": "ASHIQ ALI"
+  },
+  {
+    "rollNumber": 101108,
+    "name": "MARIA",
+    "fatherName": "AHMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101109,
+    "name": "AMNA ALI SHER",
+    "fatherName": "ALI SHER"
+  },
+  {
+    "rollNumber": 101110,
+    "name": "MAHNOOR",
+    "fatherName": "AZAM AMEEN"
+  },
+  {
+    "rollNumber": 101111,
+    "name": "AMNA BASHIR",
+    "fatherName": "BASHIR AHMED"
+  },
+  {
+    "rollNumber": 101112,
+    "name": "SANI",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 101113,
+    "name": "ALEESHA ARIF",
+    "fatherName": "ARIF ALI"
+  },
+  {
+    "rollNumber": 101114,
+    "name": "MINAHIL ABID",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 101115,
+    "name": "BISMA TARIQ",
+    "fatherName": "TARIQ MEHMOOD"
+  },
+  {
+    "rollNumber": 101116,
+    "name": "ESHMAL HABIB",
+    "fatherName": "MUHAMMAD HABIB"
+  },
+  {
+    "rollNumber": 101117,
+    "name": "AMNA RASHEED",
+    "fatherName": "RASHEED AHMAD"
+  },
+  {
+    "rollNumber": 101118,
+    "name": "SEHAR ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101119,
+    "name": "FATIMA SANI",
+    "fatherName": "MUHAMMAD ANWAR UL HAQ"
+  },
+  {
+    "rollNumber": 101120,
+    "name": "NAYAB SADAF",
+    "fatherName": "RASHID HUSSAIN"
+  },
+  {
+    "rollNumber": 101122,
+    "name": "AREESHA KALEEM",
+    "fatherName": "KALEEM ALLAH"
+  },
+  {
+    "rollNumber": 101123,
+    "name": "MINAHAL",
+    "fatherName": "IRFAN RASHEED"
+  },
+  {
+    "rollNumber": 101124,
+    "name": "AMNA BIBI",
+    "fatherName": "ABDUL GHAFOOR"
+  },
+  {
+    "rollNumber": 101125,
+    "name": "MISBAH AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101126,
+    "name": "SAIQA FATIMA",
+    "fatherName": "HAZAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101127,
+    "name": "TEHMINA IMTIAZ",
+    "fatherName": "IMTIAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 101128,
+    "name": "NOOR FATIMA",
+    "fatherName": "AUN MUHAMMAD"
+  },
+  {
+    "rollNumber": 101129,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD AZAM"
+  },
+  {
+    "rollNumber": 101130,
+    "name": "ZARNAB",
+    "fatherName": "NAIK MUHAMMAD"
+  },
+  {
+    "rollNumber": 101131,
+    "name": "BUSHRA AMIN",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 101132,
+    "name": "HAMNA SHEHZADI",
+    "fatherName": "NADEEM ABBAS"
+  },
+  {
+    "rollNumber": 101133,
+    "name": "IMAAN FATIMA",
+    "fatherName": "TASLEEM MALIK"
+  },
+  {
+    "rollNumber": 101134,
+    "name": "SANEHA  KANWAL",
+    "fatherName": "QAISER FAROOQ"
+  },
+  {
+    "rollNumber": 101135,
+    "name": "ALAINA KHAN",
+    "fatherName": "NADEEM SARFRAZ"
+  },
+  {
+    "rollNumber": 101136,
+    "name": "ALWEENA AFTAB",
+    "fatherName": "MUHAMMAD AFTAB"
+  },
+  {
+    "rollNumber": 101137,
+    "name": "ALISHBA SADIQ",
+    "fatherName": "MUHAMMAD SADIQ"
+  },
+  {
+    "rollNumber": 101138,
+    "name": "RUBAB SALEEM",
+    "fatherName": "MUHAMMAD SALEEM"
+  },
+  {
+    "rollNumber": 101139,
+    "name": "TAHIRA SHAHZADI",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 101140,
+    "name": "KIRAN SADIQ",
+    "fatherName": "SADIQ ALI"
+  },
+  {
+    "rollNumber": 101141,
+    "name": "ARSH BATOOL",
+    "fatherName": "MUHAMMAD LATIF"
+  },
+  {
+    "rollNumber": 101142,
+    "name": "ALEENA BIBI",
+    "fatherName": "KHALIQ MEHMOOD"
+  },
+  {
+    "rollNumber": 101143,
+    "name": "ZAINAB",
+    "fatherName": "ABDUL QAYYUM"
+  },
+  {
+    "rollNumber": 101144,
+    "name": "SADIA KASHIF",
+    "fatherName": "MUHAMMAD KASHIF"
+  },
+  {
+    "rollNumber": 101145,
+    "name": "SEHRISH SHAN",
+    "fatherName": "MUHAMMAD SHAN"
+  },
+  {
+    "rollNumber": 101146,
+    "name": "MAHAM ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD ALI"
+  },
+  {
+    "rollNumber": 101147,
+    "name": "ASIFA TAHREEM",
+    "fatherName": "GHULAM NABI"
+  },
+  {
+    "rollNumber": 101148,
+    "name": "RIMSHA BATOOL",
+    "fatherName": "ABDUL AZIZ"
+  },
+  {
+    "rollNumber": 101149,
+    "name": "SANA BIBI",
+    "fatherName": "SHAH NAWAZ"
+  },
+  {
+    "rollNumber": 101150,
+    "name": "ALISHA SHAFIQUE",
+    "fatherName": "MUHAMMAD SHAFIQUE"
+  },
+  {
+    "rollNumber": 101151,
+    "name": "TAYYABA SAJID",
+    "fatherName": "SAJID HUSSAIN"
+  },
+  {
+    "rollNumber": 101152,
+    "name": "MADIHA NAZIR",
+    "fatherName": "NAZIR AHMAD"
+  },
+  {
+    "rollNumber": 101153,
+    "name": "FATIMA TUL ZAHRA",
+    "fatherName": "MUHAMMAD SHABBIR"
+  },
+  {
+    "rollNumber": 101154,
+    "name": "FATIMA KHALID",
+    "fatherName": "KHALID RASHEED FAHEEM"
+  },
+  {
+    "rollNumber": 101155,
+    "name": "NISA",
+    "fatherName": "MUHAMMAD SHABBIR"
+  },
+  {
+    "rollNumber": 101156,
+    "name": "FARAH KHANAM WAJID",
+    "fatherName": "WAJID"
+  },
+  {
+    "rollNumber": 101157,
+    "name": "MANAHIL",
+    "fatherName": "TARIQ MEHMOOD"
+  },
+  {
+    "rollNumber": 101158,
+    "name": "AYESHA SADEEQA",
+    "fatherName": "AMEER ALI"
+  },
+  {
+    "rollNumber": 101159,
+    "name": "ANUM RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101160,
+    "name": "AMINA ALI",
+    "fatherName": "ALI AKBAR"
+  },
+  {
+    "rollNumber": 101161,
+    "name": "RIMSHA MUSTAFA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 101162,
+    "name": "USWA MARYAM",
+    "fatherName": "MOLVI MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 101163,
+    "name": "SAMREEN MAQBOOL",
+    "fatherName": "MUHAMMAD MAQBOOL"
+  },
+  {
+    "rollNumber": 101164,
+    "name": "MUBASHRA  ABID",
+    "fatherName": "ABID JAVED"
+  },
+  {
+    "rollNumber": 101165,
+    "name": "MARYAM FATIMA",
+    "fatherName": "GHULAM ABBAS"
+  },
+  {
+    "rollNumber": 101166,
+    "name": "ANFAAL AMJAD",
+    "fatherName": "AMJAD ALI"
+  },
+  {
+    "rollNumber": 101167,
+    "name": "HADIQA AMAN",
+    "fatherName": "KASHIF ALI"
+  },
+  {
+    "rollNumber": 101168,
+    "name": "AREEBA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 101169,
+    "name": "KIRAN YOUNAS",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 101170,
+    "name": "KIRAN SHAHZADI",
+    "fatherName": "MAHABAT ALI"
+  },
+  {
+    "rollNumber": 101171,
+    "name": "AQSA NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 101172,
+    "name": "JAVARIA NISAR",
+    "fatherName": "MUHAMMAD NISAR"
+  },
+  {
+    "rollNumber": 101173,
+    "name": "SADIA SHAHZADI",
+    "fatherName": "SHAFQAT ALI"
+  },
+  {
+    "rollNumber": 101174,
+    "name": "MARYAM ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101176,
+    "name": "AMNA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101177,
+    "name": "AYESHA SIDDIQUA",
+    "fatherName": "ABDUL GHAFFAR"
+  },
+  {
+    "rollNumber": 101178,
+    "name": "BISMA NASEEM",
+    "fatherName": "MUHAMMAD NASEEM"
+  },
+  {
+    "rollNumber": 101179,
+    "name": "NIDA FATIMA",
+    "fatherName": "MUHAMMAD KHALID"
+  },
+  {
+    "rollNumber": 101180,
+    "name": "MUQADDAS SHAHID",
+    "fatherName": "SHAHID IQBAL"
+  },
+  {
+    "rollNumber": 101181,
+    "name": "KINZA SHABAN",
+    "fatherName": "MUHAMMAD SHABAN"
+  },
+  {
+    "rollNumber": 101182,
+    "name": "MAHNOOR",
+    "fatherName": "MAZHAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101184,
+    "name": "AUJ",
+    "fatherName": "FAZAL ELAHE"
+  },
+  {
+    "rollNumber": 101185,
+    "name": "UZBA",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 101186,
+    "name": "SAIMA RANI",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 101187,
+    "name": "AQSA MUNIR",
+    "fatherName": "MUNIR AHMAD"
+  },
+  {
+    "rollNumber": 101188,
+    "name": "SADIA ABBAS",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 101190,
+    "name": "MUNEEBA",
+    "fatherName": "M NAZEER"
+  },
+  {
+    "rollNumber": 101191,
+    "name": "MALIKA",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101192,
+    "name": "AINNA SABA",
+    "fatherName": "SOHAIL ANJUM"
+  },
+  {
+    "rollNumber": 101193,
+    "name": "TAYYBA TAHIR",
+    "fatherName": "TAHIR MEHMOOD"
+  },
+  {
+    "rollNumber": 101194,
+    "name": "YASHFA ZAHOOR",
+    "fatherName": "ZAHOOR AHMAD"
+  },
+  {
+    "rollNumber": 101195,
+    "name": "SAIRA",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 101196,
+    "name": "TAYBA BILAL",
+    "fatherName": "MUHAMMAD BILAL"
+  },
+  {
+    "rollNumber": 101198,
+    "name": "AROOJ",
+    "fatherName": "NAZIR"
+  },
+  {
+    "rollNumber": 101199,
+    "name": "ZILL E FATIMA",
+    "fatherName": "GHOUS MUHAMMAD"
+  },
+  {
+    "rollNumber": 101200,
+    "name": "ESHA",
+    "fatherName": "AMJAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101201,
+    "name": "ALEENA GHULAM RASOOL",
+    "fatherName": "GHULAM RASOOL"
+  },
+  {
+    "rollNumber": 101202,
+    "name": "SHABAHAT NOOR",
+    "fatherName": "GOHAR HAYAT"
+  },
+  {
+    "rollNumber": 101203,
+    "name": "MEHAR NIGAH",
+    "fatherName": "MIRZA HAFEEZ ULLAH BAIG"
+  },
+  {
+    "rollNumber": 101204,
+    "name": "FIZZA RANI",
+    "fatherName": "EJAZ AHMAD"
+  },
+  {
+    "rollNumber": 101205,
+    "name": "RAHEELA HAMEED",
+    "fatherName": "ABDUL HAMEED"
+  },
+  {
+    "rollNumber": 101206,
+    "name": "AEMAN NAWAZ",
+    "fatherName": "MUHAMMAD NAWAZ WATTOO"
+  },
+  {
+    "rollNumber": 101207,
+    "name": "MINAHIL FATIMA",
+    "fatherName": "PERVAIZ AHMAD"
+  },
+  {
+    "rollNumber": 101208,
+    "name": "MINAHIL",
+    "fatherName": "MUHAMMAD AHMAD"
+  },
+  {
+    "rollNumber": 101209,
+    "name": "FAIZA",
+    "fatherName": "IQBAL TAMAS MASIH"
+  },
+  {
+    "rollNumber": 101210,
+    "name": "NOOR FATIMA",
+    "fatherName": "SHAHZAD ALI"
+  },
+  {
+    "rollNumber": 101211,
+    "name": "NATASHA MUSTAFA",
+    "fatherName": "MUHAMMAD MUSTAFA"
+  },
+  {
+    "rollNumber": 101212,
+    "name": "SHABANA YAQOOB",
+    "fatherName": "MUHAMMAD YAQOOB"
+  },
+  {
+    "rollNumber": 101213,
+    "name": "AYESHA SHAHZADI",
+    "fatherName": "MUHAMMAD AZEEM"
+  },
+  {
+    "rollNumber": 101214,
+    "name": "LAIBA",
+    "fatherName": "SHAHBAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 101215,
+    "name": "KHADIJA TUL KUBRA",
+    "fatherName": "DILSHAD ALI"
+  },
+  {
+    "rollNumber": 101216,
+    "name": "SAIMA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101217,
+    "name": "BARIRA RAFIQ",
+    "fatherName": "MUHAMMAD RAFIQ"
+  },
+  {
+    "rollNumber": 101218,
+    "name": "AYESHA KHAN",
+    "fatherName": "MALIK MUHAMMAD KHAN"
+  },
+  {
+    "rollNumber": 101219,
+    "name": "AYESHA RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101220,
+    "name": "SAWERA SARWAR",
+    "fatherName": "MUHAMMAD SARWAR"
+  },
+  {
+    "rollNumber": 101221,
+    "name": "NAJMA BIBI",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101222,
+    "name": "MUAIZZMA MEHREEN",
+    "fatherName": "ALI AHMAD"
+  },
+  {
+    "rollNumber": 101223,
+    "name": "MARYAM HAFEEZ",
+    "fatherName": "RANA ABDUL HAFEEZ JOYIA"
+  },
+  {
+    "rollNumber": 101224,
+    "name": "FAKHRA NAZIR",
+    "fatherName": "NAZIR AHMAD"
+  },
+  {
+    "rollNumber": 101225,
+    "name": "MUSKAN SAJJAD",
+    "fatherName": "ASIF SAJJAD"
+  },
+  {
+    "rollNumber": 101226,
+    "name": "SAMMIA AMAN",
+    "fatherName": "AMANULLAH"
+  },
+  {
+    "rollNumber": 101227,
+    "name": "SONIA",
+    "fatherName": "NASEER AHMAD"
+  },
+  {
+    "rollNumber": 101228,
+    "name": "RUBAIKA",
+    "fatherName": "MUHAMMAD MANZOOR AHMED"
+  },
+  {
+    "rollNumber": 101229,
+    "name": "SIDRA AYOUB",
+    "fatherName": "MUHAMMAD AYOUB"
+  },
+  {
+    "rollNumber": 101230,
+    "name": "SAHER SHAFIQUE",
+    "fatherName": "MUHAMMAD SHAFIQUE"
+  },
+  {
+    "rollNumber": 101231,
+    "name": "ZAINAB",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101232,
+    "name": "SABA BIBI",
+    "fatherName": "ABDUL WAHID"
+  },
+  {
+    "rollNumber": 101233,
+    "name": "NIDA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101234,
+    "name": "AYESHA ALI WAQAR",
+    "fatherName": "WAQAR AHMAD"
+  },
+  {
+    "rollNumber": 101235,
+    "name": "UMME RUBAB BATOOL",
+    "fatherName": "FALAK SHER"
+  },
+  {
+    "rollNumber": 101236,
+    "name": "SANIHA",
+    "fatherName": "YOUSAF MASEEH"
+  },
+  {
+    "rollNumber": 101237,
+    "name": "MOAZMA MEHAK",
+    "fatherName": "MUHAMMAD NAVEED"
+  },
+  {
+    "rollNumber": 101238,
+    "name": "LAIBA KANWAL",
+    "fatherName": "KHUSHI MUHAMMAD"
+  },
+  {
+    "rollNumber": 101239,
+    "name": "AROOJ FATIMA",
+    "fatherName": "SHAHID IQBAL"
+  },
+  {
+    "rollNumber": 101240,
+    "name": "SADIA",
+    "fatherName": "MUHAMMAD AMIN"
+  },
+  {
+    "rollNumber": 101241,
+    "name": "ANEELA BATOOL",
+    "fatherName": "QUTAB SHAH"
+  },
+  {
+    "rollNumber": 101242,
+    "name": "MARYAM TAHIRA",
+    "fatherName": "MUHAMMAD TUFAIL AKHTAR"
+  },
+  {
+    "rollNumber": 101243,
+    "name": "NOREEN GHULAM NABI",
+    "fatherName": "GHULAM NABI"
+  },
+  {
+    "rollNumber": 101244,
+    "name": "JAWERIA RANI",
+    "fatherName": "MUHAMMAD ARSHAD AMIN"
+  },
+  {
+    "rollNumber": 101245,
+    "name": "HIFZA ASLAM",
+    "fatherName": "MUHAMMAD ASLAM LASHARI"
+  },
+  {
+    "rollNumber": 101246,
+    "name": "MARIA IQBAL",
+    "fatherName": "IQBAL HUSSAIN"
+  },
+  {
+    "rollNumber": 101247,
+    "name": "REHANA HAMID",
+    "fatherName": "HAMID HUSSAIN"
+  },
+  {
+    "rollNumber": 101248,
+    "name": "HIFSA MAQBOL",
+    "fatherName": "MAQBOL AHMAD"
+  },
+  {
+    "rollNumber": 101249,
+    "name": "SAJIDA BIBI",
+    "fatherName": "MUHAMMAD ISMAIL"
+  },
+  {
+    "rollNumber": 101250,
+    "name": "MARYAM MUNIR",
+    "fatherName": "BADAR MUNIR"
+  },
+  {
+    "rollNumber": 101251,
+    "name": "RUKHSANA PARVEEN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101252,
+    "name": "ZAINAB",
+    "fatherName": "MUHAMMAD SADIQ"
+  },
+  {
+    "rollNumber": 101253,
+    "name": "SAMIA SARFRAZ",
+    "fatherName": "SARFRAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 101254,
+    "name": "AMBER RASHEED",
+    "fatherName": "MUHAMMAD RASHEED"
+  },
+  {
+    "rollNumber": 101255,
+    "name": "SAWAIRA  MEHBOOB",
+    "fatherName": "MEHBOOB ALAM"
+  },
+  {
+    "rollNumber": 101256,
+    "name": "SUMAIRA PARVEEN",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 101257,
+    "name": "MARYAM BABAR",
+    "fatherName": "BABAR ALI"
+  },
+  {
+    "rollNumber": 101258,
+    "name": "NIMRA ASIF",
+    "fatherName": "ASIF MEHMOOD"
+  },
+  {
+    "rollNumber": 101259,
+    "name": "SANA BIBI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101260,
+    "name": "IQRA RAZZAQ",
+    "fatherName": "ABDUR RAZZAQ"
+  },
+  {
+    "rollNumber": 101261,
+    "name": "AMINA BIBI",
+    "fatherName": "MUHAMMAD SHAFI"
+  },
+  {
+    "rollNumber": 101262,
+    "name": "AMINA MATEEN",
+    "fatherName": "ABDUL MATEEN"
+  },
+  {
+    "rollNumber": 101263,
+    "name": "MAIRA ASHFAQ AHMED",
+    "fatherName": "ASHFAQ AHMED"
+  },
+  {
+    "rollNumber": 101264,
+    "name": "IQRA SHAHZADI",
+    "fatherName": "ALLAH RAKHA"
+  },
+  {
+    "rollNumber": 101265,
+    "name": "AASMA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 101266,
+    "name": "ZAINAB FATIMA",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101267,
+    "name": "TABEER NADEEM",
+    "fatherName": "SAJID NADEEM"
+  },
+  {
+    "rollNumber": 101268,
+    "name": "KHADEEJA ARIF",
+    "fatherName": "MUHAMMAD ARIF"
+  },
+  {
+    "rollNumber": 101269,
+    "name": "SAWERA BIBI",
+    "fatherName": "KHUSHI MASIH"
+  },
+  {
+    "rollNumber": 101270,
+    "name": "RIFFAT",
+    "fatherName": "MUHAMMAD ZAFAR"
+  },
+  {
+    "rollNumber": 101271,
+    "name": "RABIA",
+    "fatherName": "KHADIM HUSSAIN"
+  },
+  {
+    "rollNumber": 101272,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 101273,
+    "name": "NEELAM FATIMA",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 101274,
+    "name": "SAWAIRA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101275,
+    "name": "AROOJ FATIMA",
+    "fatherName": "KHALIL AHMED"
+  },
+  {
+    "rollNumber": 101276,
+    "name": "SAKENA YAQOOB",
+    "fatherName": "MUHAMMAD YAQOOB"
+  },
+  {
+    "rollNumber": 101277,
+    "name": "PRISHNA PERASTISH",
+    "fatherName": "AMMANUAL"
+  },
+  {
+    "rollNumber": 101278,
+    "name": "ASMA",
+    "fatherName": "MUHAMMAD IKRAM"
+  },
+  {
+    "rollNumber": 101279,
+    "name": "NOREEN AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 101280,
+    "name": "SANAIHA  SHEETEL",
+    "fatherName": "SHAHZAD MASIH"
+  },
+  {
+    "rollNumber": 101281,
+    "name": "IQRA BIBI",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101282,
+    "name": "MAAH NOOR",
+    "fatherName": "NASIR MEHMOOD KHAN"
+  },
+  {
+    "rollNumber": 101283,
+    "name": "ZAINAB ZAIN",
+    "fatherName": "ZAIN UL ABIDEEN"
+  },
+  {
+    "rollNumber": 101284,
+    "name": "SAWAIRA BATOOL",
+    "fatherName": "RUSTAM ALI NASIR"
+  },
+  {
+    "rollNumber": 101285,
+    "name": "RIFFAT BATOOL",
+    "fatherName": "MUHAMMAD HABIB"
+  },
+  {
+    "rollNumber": 101286,
+    "name": "RAMEEN RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101287,
+    "name": "SHEEZA GHAFFAR",
+    "fatherName": "ABDUL GHAFFAR ANJUM"
+  },
+  {
+    "rollNumber": 101288,
+    "name": "AYE NOOR RUBAB",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 101289,
+    "name": "TAYYABA FATIMA",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 101290,
+    "name": "SHEEZA BIBI",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 101291,
+    "name": "MARYAM AMIR",
+    "fatherName": "AMIR ALI"
+  },
+  {
+    "rollNumber": 101292,
+    "name": "MUSKAN ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101293,
+    "name": "MARYAM FATIMA",
+    "fatherName": "MUHAMMAD MUKHTAR"
+  },
+  {
+    "rollNumber": 101294,
+    "name": "ARFA",
+    "fatherName": "MUHAMMAD ASHFAQ"
+  },
+  {
+    "rollNumber": 101295,
+    "name": "EMAN FATIMA",
+    "fatherName": "AZAM ALI"
+  },
+  {
+    "rollNumber": 101296,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD SULTAN"
+  },
+  {
+    "rollNumber": 101297,
+    "name": "TAYYABA IRFAN",
+    "fatherName": "IRFAN MEHMOOD"
+  },
+  {
+    "rollNumber": 101298,
+    "name": "RAHEELA NAZEER",
+    "fatherName": "NAZEER AHMAD"
+  },
+  {
+    "rollNumber": 101299,
+    "name": "MINAHIL AMJAD",
+    "fatherName": "AMJAD SOHAIL"
+  },
+  {
+    "rollNumber": 101300,
+    "name": "SONIA BIBI",
+    "fatherName": "BASHIR AHMED"
+  },
+  {
+    "rollNumber": 101301,
+    "name": "HAJRA BIBI",
+    "fatherName": "GHULAM MUSTAFA SAJID"
+  },
+  {
+    "rollNumber": 101302,
+    "name": "TAYYABA ABID",
+    "fatherName": "ABID MUNEER"
+  },
+  {
+    "rollNumber": 101303,
+    "name": "NADIA BATOOL",
+    "fatherName": "KHADIM ALI"
+  },
+  {
+    "rollNumber": 101304,
+    "name": "ZOHRAN BIBI",
+    "fatherName": "SHAHADAT ALI"
+  },
+  {
+    "rollNumber": 101305,
+    "name": "MANAHIL",
+    "fatherName": "MUHAMMAD HAFEEZ"
+  },
+  {
+    "rollNumber": 101306,
+    "name": "AYESHA FAZAL",
+    "fatherName": "FAZAL HUSSAIN ALI"
+  },
+  {
+    "rollNumber": 101307,
+    "name": "AQSA MUSA",
+    "fatherName": "MUHAMMAD MUSA"
+  },
+  {
+    "rollNumber": 101308,
+    "name": "NIMRA SHAHZADI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101309,
+    "name": "JAWAHAR FATIMA",
+    "fatherName": "SAAD ULLAH SADIQ"
+  },
+  {
+    "rollNumber": 101310,
+    "name": "SAWERA MATTO",
+    "fatherName": "KHAWER"
+  },
+  {
+    "rollNumber": 101311,
+    "name": "MARYAM ALMAS",
+    "fatherName": "MUHAMMAD SARFRAZ"
+  },
+  {
+    "rollNumber": 101312,
+    "name": "MARIA MUSHTAQ",
+    "fatherName": "MUSHTAQ"
+  },
+  {
+    "rollNumber": 101313,
+    "name": "YASHFA SAEED",
+    "fatherName": "SAEED AHMAD"
+  },
+  {
+    "rollNumber": 101314,
+    "name": "SEHAR RIAZ",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 101315,
+    "name": "FIZA BIBI",
+    "fatherName": "IMTIAZ HUSSAIN"
+  },
+  {
+    "rollNumber": 101316,
+    "name": "MALAIKA TAHIR",
+    "fatherName": "TAHIR ALI"
+  },
+  {
+    "rollNumber": 101317,
+    "name": "TAYYBA RAMZAN",
+    "fatherName": "M RAMZAN"
+  },
+  {
+    "rollNumber": 101318,
+    "name": "EMAN FATIMA",
+    "fatherName": "GHULAM SARWAR ALI SHAH"
+  },
+  {
+    "rollNumber": 101319,
+    "name": "ASMA MANZOOR",
+    "fatherName": "MANZOOR AHMAD"
+  },
+  {
+    "rollNumber": 101320,
+    "name": "KIRAN MAQSOOD",
+    "fatherName": "MAQSOOD AHMAD"
+  },
+  {
+    "rollNumber": 101321,
+    "name": "HIRA TALIB",
+    "fatherName": "TALIB HUSSAIN"
+  },
+  {
+    "rollNumber": 101322,
+    "name": "KHIZRA AROOJ",
+    "fatherName": "DILSHAD AHMED"
+  },
+  {
+    "rollNumber": 101323,
+    "name": "SUMAIRA PARVEEN",
+    "fatherName": "HAQ NAWAZ"
+  },
+  {
+    "rollNumber": 101324,
+    "name": "AYESHA SADIQ",
+    "fatherName": "MUHAMMAD SADIQ"
+  },
+  {
+    "rollNumber": 101325,
+    "name": "SANA",
+    "fatherName": "KASHIF ALI"
+  },
+  {
+    "rollNumber": 101326,
+    "name": "MINAHAL",
+    "fatherName": "KHALID RASHEED"
+  },
+  {
+    "rollNumber": 101327,
+    "name": "MUNIBA ASIF",
+    "fatherName": "ASIF RASHEED"
+  },
+  {
+    "rollNumber": 101328,
+    "name": "ANILA SAFDAR",
+    "fatherName": "SAFDAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101329,
+    "name": "SANIA AZIZ",
+    "fatherName": "ABDUL AZIZ"
+  },
+  {
+    "rollNumber": 101330,
+    "name": "SHUMAILA",
+    "fatherName": "MUHAMMAD RAFI"
+  },
+  {
+    "rollNumber": 101331,
+    "name": "FOZIA KANWAL",
+    "fatherName": "RAJAY KHAN"
+  },
+  {
+    "rollNumber": 101332,
+    "name": "ZAHRA",
+    "fatherName": "MUHAMMAD YAR"
+  },
+  {
+    "rollNumber": 101333,
+    "name": "ALEEHA NAVEED",
+    "fatherName": "NAVEED UL HAQ"
+  },
+  {
+    "rollNumber": 101334,
+    "name": "NOOR FATIMA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101335,
+    "name": "URWA IRSHAD",
+    "fatherName": "IRSHAD SARDAR"
+  },
+  {
+    "rollNumber": 101336,
+    "name": "SAIRA",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 101337,
+    "name": "NOREEN TAHIR",
+    "fatherName": "TAHIR NAWAZ"
+  },
+  {
+    "rollNumber": 101338,
+    "name": "MARIAM FATIMA",
+    "fatherName": "KASHIF MAJEED"
+  },
+  {
+    "rollNumber": 101339,
+    "name": "LAIBA NAEEM",
+    "fatherName": "MUHAMMAD NAEEM"
+  },
+  {
+    "rollNumber": 101340,
+    "name": "AYESHA  HUSSAIN",
+    "fatherName": "MUHAMMAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101341,
+    "name": "MARTHA BIBI",
+    "fatherName": "MANZOOR MASEEH"
+  },
+  {
+    "rollNumber": 101342,
+    "name": "AIZA ABID",
+    "fatherName": "ABID NAWAZ"
+  },
+  {
+    "rollNumber": 101343,
+    "name": "ARIBA LUQMAN",
+    "fatherName": "MUHAMMAD LUQMAN"
+  },
+  {
+    "rollNumber": 101344,
+    "name": "QURAT UL AIN BUKHARI",
+    "fatherName": "SHABBIR AHMAD SHAH"
+  },
+  {
+    "rollNumber": 101345,
+    "name": "MINAHIL ASLAM",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101346,
+    "name": "MEHREEN YOUNAS",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 101347,
+    "name": "SEHAR ZAHID",
+    "fatherName": "MUHAMMAD ZAHID"
+  },
+  {
+    "rollNumber": 101348,
+    "name": "SABA EMAN FAREED",
+    "fatherName": "MUHAMMAD FAREED"
+  },
+  {
+    "rollNumber": 101349,
+    "name": "MINAHIL SADIQ",
+    "fatherName": "SADIQ ALI"
+  },
+  {
+    "rollNumber": 101350,
+    "name": "SANAM IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101351,
+    "name": "FARIHA MARYAM",
+    "fatherName": "MUHAMMAD ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 101352,
+    "name": "SANIA",
+    "fatherName": "MAQBOOL HUSSAIN"
+  },
+  {
+    "rollNumber": 101353,
+    "name": "LAIBA ASGHAR",
+    "fatherName": "ASGHAR ALI"
+  },
+  {
+    "rollNumber": 101354,
+    "name": "TAHIRA BATOOL",
+    "fatherName": "MUKHTAR AHMAD"
+  },
+  {
+    "rollNumber": 101355,
+    "name": "ABEEHA FATIMA",
+    "fatherName": "MUHAMMAD NAWAZ"
+  },
+  {
+    "rollNumber": 101356,
+    "name": "BISMA RANI",
+    "fatherName": "SAEED AHMAD"
+  },
+  {
+    "rollNumber": 101357,
+    "name": "GHULAM FATIMA",
+    "fatherName": "MIAN GHULAM FAROOQ"
+  },
+  {
+    "rollNumber": 101358,
+    "name": "ALIZA ABID",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 101359,
+    "name": "MISBAH SHOUKAT",
+    "fatherName": "SHOUKAT ALI"
+  },
+  {
+    "rollNumber": 101360,
+    "name": "TAHIRA",
+    "fatherName": "MUHAMMAD YOUSAF"
+  },
+  {
+    "rollNumber": 101361,
+    "name": "AROOJ FATIMA",
+    "fatherName": "MUBARAK ALI"
+  },
+  {
+    "rollNumber": 101363,
+    "name": "FATIMA",
+    "fatherName": "MUHAMMAD RASHEED"
+  },
+  {
+    "rollNumber": 101364,
+    "name": "MANAHIL IFTIKHAR",
+    "fatherName": "IFTIKHAR AHMAD"
+  },
+  {
+    "rollNumber": 101365,
+    "name": "ALEESHA MAQBOOL",
+    "fatherName": "MAQBOOL HUSSAIN"
+  },
+  {
+    "rollNumber": 101366,
+    "name": "MOMNA SHAHZADI",
+    "fatherName": "TANVEER SALEEM"
+  },
+  {
+    "rollNumber": 101367,
+    "name": "ARISHA IRFAN",
+    "fatherName": "IRFAN ULLAH KHAN"
+  },
+  {
+    "rollNumber": 101368,
+    "name": "RUKHSANA BIBI",
+    "fatherName": "IJAZ AHMED"
+  },
+  {
+    "rollNumber": 101369,
+    "name": "ALEEHA",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101370,
+    "name": "FIZZA",
+    "fatherName": "KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 101371,
+    "name": "MARYAM FAROOQ",
+    "fatherName": "MUHAMMAD FAROOQ"
+  },
+  {
+    "rollNumber": 101372,
+    "name": "UMME HABIBA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101373,
+    "name": "IQRA SHAHEEN",
+    "fatherName": "NOOR MUHAMMAD"
+  },
+  {
+    "rollNumber": 101374,
+    "name": "SANA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 101375,
+    "name": "ALISHA RASHEED",
+    "fatherName": "ABDUL RASHEED"
+  },
+  {
+    "rollNumber": 101376,
+    "name": "TAHIRA SABIR",
+    "fatherName": "MUHAMMAD SABIR"
+  },
+  {
+    "rollNumber": 101377,
+    "name": "AYESHA ABDULLAH",
+    "fatherName": "MUHAMMAD ABDULLAH WATTO"
+  },
+  {
+    "rollNumber": 101378,
+    "name": "RABEEHA ZAINAB",
+    "fatherName": "AMJAD ALI"
+  },
+  {
+    "rollNumber": 101379,
+    "name": "ARIBA NOOR",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 101380,
+    "name": "EDEN ROSE",
+    "fatherName": "NAVEED LAZAR"
+  },
+  {
+    "rollNumber": 101381,
+    "name": "RAFIA NADEEM",
+    "fatherName": "MUHAMMAD NADEEM RAZA"
+  },
+  {
+    "rollNumber": 101382,
+    "name": "EISHA ALI",
+    "fatherName": "BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 101383,
+    "name": "ALIZA WARIS",
+    "fatherName": "GHULAM WARIS"
+  },
+  {
+    "rollNumber": 101384,
+    "name": "MARYAM BIBI",
+    "fatherName": "MUHAMMAD YASEEN"
+  },
+  {
+    "rollNumber": 101385,
+    "name": "FAJAR ISHAQ",
+    "fatherName": "MUHAMMAD ISHAQ"
+  },
+  {
+    "rollNumber": 101386,
+    "name": "WAJIHA JAMIL",
+    "fatherName": "JAMIL AHMAD"
+  },
+  {
+    "rollNumber": 101387,
+    "name": "SANA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101388,
+    "name": "SADIA  RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101389,
+    "name": "AMNA BIBI",
+    "fatherName": "ZAFAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101391,
+    "name": "LARAIB",
+    "fatherName": "MUHAMMAD ISMAIL"
+  },
+  {
+    "rollNumber": 101392,
+    "name": "JAWERIA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101393,
+    "name": "SIDRA AMJAD",
+    "fatherName": "MUHAMMAD AMJAD"
+  },
+  {
+    "rollNumber": 101394,
+    "name": "NAGEEN FATIMA",
+    "fatherName": "MUHAMMAD ISMAIL"
+  },
+  {
+    "rollNumber": 101395,
+    "name": "UMM E FARWA",
+    "fatherName": "MUHAMMAD ALTAF"
+  },
+  {
+    "rollNumber": 101396,
+    "name": "MARYAM SAEED",
+    "fatherName": "SAEED AHMAD"
+  },
+  {
+    "rollNumber": 101398,
+    "name": "ZOBIA  ALI",
+    "fatherName": "MUHAMMAD BASHIR AHMAD"
+  },
+  {
+    "rollNumber": 101399,
+    "name": "LAIBA HAFEEZ",
+    "fatherName": "MUHAMMAD HAFEEZ"
+  },
+  {
+    "rollNumber": 101400,
+    "name": "ALINA ASHRAF",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101401,
+    "name": "FATIMA BIBI",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 101402,
+    "name": "ALEESHA AKRAM",
+    "fatherName": "MUHAMMAD AKRAM"
+  },
+  {
+    "rollNumber": 101403,
+    "name": "SAIRA",
+    "fatherName": "KALAY KHAN"
+  },
+  {
+    "rollNumber": 101404,
+    "name": "NIMRA ZULFIQAR",
+    "fatherName": "ZULFIQAR ALI"
+  },
+  {
+    "rollNumber": 101405,
+    "name": "NOOR UL HUDA",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101406,
+    "name": "MEHNAZ AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101407,
+    "name": "MARIA",
+    "fatherName": "MUMTAZ AHMED"
+  },
+  {
+    "rollNumber": 101408,
+    "name": "MALIHA KHALID",
+    "fatherName": "MUHAMMAD KHALID"
+  },
+  {
+    "rollNumber": 101409,
+    "name": "ALIZA DILSHAD",
+    "fatherName": "DILSHAD AHMAD"
+  },
+  {
+    "rollNumber": 101410,
+    "name": "ANMOL SHAHZADI",
+    "fatherName": "IMRAN BUTT"
+  },
+  {
+    "rollNumber": 101411,
+    "name": "SEHRISH",
+    "fatherName": "SHARAFAT ALI"
+  },
+  {
+    "rollNumber": 101412,
+    "name": "MUBEEN KOSER",
+    "fatherName": "SHER MUHAMMAD"
+  },
+  {
+    "rollNumber": 101413,
+    "name": "SADIA KARIM",
+    "fatherName": "KARIM"
+  },
+  {
+    "rollNumber": 101414,
+    "name": "KAINAT SHAHZADI",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101415,
+    "name": "MUNAZZA ARSHAD",
+    "fatherName": "ARSHAD ALI"
+  },
+  {
+    "rollNumber": 101416,
+    "name": "FIZA ABID",
+    "fatherName": "ABID HUSSAIN"
+  },
+  {
+    "rollNumber": 101417,
+    "name": "FIZZA MAQBOOL",
+    "fatherName": "MAQBOOL QADIR"
+  },
+  {
+    "rollNumber": 101418,
+    "name": "SADIA BIBI",
+    "fatherName": "ASGHAR ALI"
+  },
+  {
+    "rollNumber": 101419,
+    "name": "MEHWISH KHALID",
+    "fatherName": "KHALID HUSSAIN"
+  },
+  {
+    "rollNumber": 101420,
+    "name": "SAMARIA PARVEEN",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 101421,
+    "name": "IQRA AMJAD",
+    "fatherName": "AMJAD ALI"
+  },
+  {
+    "rollNumber": 101422,
+    "name": "ZUNAIRA SHAKEEL",
+    "fatherName": "SHAKEEL AHMED"
+  },
+  {
+    "rollNumber": 101423,
+    "name": "KIRAN TANVEER",
+    "fatherName": "MUHAMMAD TANVEER"
+  },
+  {
+    "rollNumber": 101424,
+    "name": "UMME HABIBAH",
+    "fatherName": "BASHARAT SAEED"
+  },
+  {
+    "rollNumber": 101425,
+    "name": "SIDRA SIDDIQUE",
+    "fatherName": "MUHAMMAD SIDDIQUE"
+  },
+  {
+    "rollNumber": 101426,
+    "name": "UME JAVERIA",
+    "fatherName": "RASHEED AHMAD"
+  },
+  {
+    "rollNumber": 101427,
+    "name": "NUSRAT YAQOOB",
+    "fatherName": "MUHAMMAD YAQOOB"
+  },
+  {
+    "rollNumber": 101428,
+    "name": "EMAN ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD IQBAL"
+  },
+  {
+    "rollNumber": 101429,
+    "name": "HIFZA RASHID",
+    "fatherName": "MUHAMMAD RASHID BUTT"
+  },
+  {
+    "rollNumber": 101430,
+    "name": "SIDRA HAYAT",
+    "fatherName": "UMAR HAYATA"
+  },
+  {
+    "rollNumber": 101431,
+    "name": "LAIBA AFZAL",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101432,
+    "name": "IQRA",
+    "fatherName": "MUSHTAQ AHMAD"
+  },
+  {
+    "rollNumber": 101433,
+    "name": "AYESHA IMAN",
+    "fatherName": "UMAR FAROOQ"
+  },
+  {
+    "rollNumber": 101434,
+    "name": "SYEDA ASRA NOOR",
+    "fatherName": "SYED NAVEED HASSAN SHAKEEL"
+  },
+  {
+    "rollNumber": 101435,
+    "name": "MUQADDAS MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 101436,
+    "name": "EMAN IMRAN",
+    "fatherName": "IMRAN BASHIR"
+  },
+  {
+    "rollNumber": 101437,
+    "name": "ALIA RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101438,
+    "name": "ALISHA NOOR",
+    "fatherName": "NOOR HASSAN"
+  },
+  {
+    "rollNumber": 101439,
+    "name": "BIEA FATIMA",
+    "fatherName": "MUHAMMAD RASHID"
+  },
+  {
+    "rollNumber": 101440,
+    "name": "MARIA",
+    "fatherName": "ABDUL SATTAR"
+  },
+  {
+    "rollNumber": 101441,
+    "name": "FARIHA AKHTAR",
+    "fatherName": "MUHAMMAD AKHTAR TAHIR"
+  },
+  {
+    "rollNumber": 101442,
+    "name": "MEHRO UN NISA ZAFAR",
+    "fatherName": "ZAFAR IQBAL"
+  },
+  {
+    "rollNumber": 101443,
+    "name": "ALISHA MINAHIL",
+    "fatherName": "MUHAMMAD TAHIR MAHMOOD"
+  },
+  {
+    "rollNumber": 101444,
+    "name": "BUSHRA REHMAN",
+    "fatherName": "ABDUL REHMAN"
+  },
+  {
+    "rollNumber": 101445,
+    "name": "DUA IQBAL",
+    "fatherName": "MIAN MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101446,
+    "name": "ZARA MUSTAFA",
+    "fatherName": "GHULAM MUSTAFA"
+  },
+  {
+    "rollNumber": 101448,
+    "name": "JAVARIA MAZAHAR",
+    "fatherName": "MAZAHAR IQBAL"
+  },
+  {
+    "rollNumber": 101449,
+    "name": "MEERAB YASIN",
+    "fatherName": "MUHAMMAD YASIN"
+  },
+  {
+    "rollNumber": 101450,
+    "name": "MALKA SHEHZADI",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101451,
+    "name": "KIRAN BIBI",
+    "fatherName": "FARYAD HUSSAIN"
+  },
+  {
+    "rollNumber": 101452,
+    "name": "SAMREEN AMEEN",
+    "fatherName": "MUHAMMAD AMEEN"
+  },
+  {
+    "rollNumber": 101453,
+    "name": "HUMNA ARSHAD",
+    "fatherName": "ARSHAD JALAL"
+  },
+  {
+    "rollNumber": 101454,
+    "name": "KALSOOM BIBI",
+    "fatherName": "FALAK SHAIR"
+  },
+  {
+    "rollNumber": 101455,
+    "name": "TABASSUM",
+    "fatherName": "ALI SHER"
+  },
+  {
+    "rollNumber": 101456,
+    "name": "NOOR UL AIN",
+    "fatherName": "IRFAN IQBAL"
+  },
+  {
+    "rollNumber": 101457,
+    "name": "GHULAM SIDRA",
+    "fatherName": "MUHAMMAD YOUNAS"
+  },
+  {
+    "rollNumber": 101458,
+    "name": "WAFA ZAHRA",
+    "fatherName": "SYED SAFDAR MEHDI SHAH"
+  },
+  {
+    "rollNumber": 101459,
+    "name": "MARYAM FATIMA",
+    "fatherName": "RIAZ UL HAQ"
+  },
+  {
+    "rollNumber": 101461,
+    "name": "MAHNOOR",
+    "fatherName": "ABDUL RAUF"
+  },
+  {
+    "rollNumber": 101462,
+    "name": "SYEDA HINA KHALID",
+    "fatherName": "SYED KHALID HUSSAIN"
+  },
+  {
+    "rollNumber": 101463,
+    "name": "ZAINAB BIBI",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 101464,
+    "name": "KIRAN SHAHZADI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101465,
+    "name": "NAVEEDA ISHTIAQ",
+    "fatherName": "ISHTIAQ AHMAD"
+  },
+  {
+    "rollNumber": 101466,
+    "name": "MEHWISH NOOR",
+    "fatherName": "NOOR AHMAD"
+  },
+  {
+    "rollNumber": 101467,
+    "name": "RIMSHA RIAZ",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 101468,
+    "name": "SAWERA  HAYAT",
+    "fatherName": "KHIZAR HAYAT"
+  },
+  {
+    "rollNumber": 101469,
+    "name": "SUNAINA",
+    "fatherName": "MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 101470,
+    "name": "FATIMA TARIQ",
+    "fatherName": "TARIQ FAROOQ MUGHAL"
+  },
+  {
+    "rollNumber": 101471,
+    "name": "ATIKA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101472,
+    "name": "GUL E SAMAN",
+    "fatherName": "CHAUDHARY SATTAR AHAMD"
+  },
+  {
+    "rollNumber": 101473,
+    "name": "IQRA RIAZ",
+    "fatherName": "RIAZ ZAKIR"
+  },
+  {
+    "rollNumber": 101474,
+    "name": "FATIMA MATLOOB",
+    "fatherName": "MUHAMMAD MATLOOB"
+  },
+  {
+    "rollNumber": 101475,
+    "name": "KISHWAR MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 101476,
+    "name": "MARIYA BATOUL",
+    "fatherName": "NAZIR AHMAD"
+  },
+  {
+    "rollNumber": 101477,
+    "name": "NOOR FATIMA",
+    "fatherName": "SHAHID JAVED"
+  },
+  {
+    "rollNumber": 101478,
+    "name": "AMAAN TARIQ",
+    "fatherName": "TARIQ MEHMOOD"
+  },
+  {
+    "rollNumber": 101479,
+    "name": "AMINA MUBEEN",
+    "fatherName": "MUBEEN UL HAQ"
+  },
+  {
+    "rollNumber": 101480,
+    "name": "JAMEELA MAQBOOL",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 101481,
+    "name": "UZMA BIBI",
+    "fatherName": "AHMAD ALI"
+  },
+  {
+    "rollNumber": 101482,
+    "name": "MARIA FAROOQ",
+    "fatherName": "FAROOQ ABID"
+  },
+  {
+    "rollNumber": 101483,
+    "name": "MALAIKA NADEEM",
+    "fatherName": "NADEEM IQBAL"
+  },
+  {
+    "rollNumber": 101484,
+    "name": "FATIMA SADDIQUE",
+    "fatherName": "MUHAMMAD SADDIQUE"
+  },
+  {
+    "rollNumber": 101485,
+    "name": "SABA MAQSOOD",
+    "fatherName": "MAQSOOD AHMED"
+  },
+  {
+    "rollNumber": 101486,
+    "name": "AIMAN FATIMA",
+    "fatherName": "SHABBIR AHMED"
+  },
+  {
+    "rollNumber": 101487,
+    "name": "ANSA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 101488,
+    "name": "ASIMA BIBI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101489,
+    "name": "ALIZA ASIF",
+    "fatherName": "MUHAMMAD ASIF"
+  },
+  {
+    "rollNumber": 101490,
+    "name": "AMNA KISHWAR",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101491,
+    "name": "NIGAH NOOR",
+    "fatherName": "MUHAMMAD AFZAL"
+  },
+  {
+    "rollNumber": 101492,
+    "name": "YUSRA NADEEM",
+    "fatherName": "MUHAMMAD NADEEM"
+  },
+  {
+    "rollNumber": 101493,
+    "name": "ZAINAB NADEEM",
+    "fatherName": "WASIF NADEEM"
+  },
+  {
+    "rollNumber": 101494,
+    "name": "ALISHA NASEEM",
+    "fatherName": "REHMAT ALI"
+  },
+  {
+    "rollNumber": 101495,
+    "name": "ALEEZA ISHTIAQ",
+    "fatherName": "MIRZA ISHTIAQ AHMED"
+  },
+  {
+    "rollNumber": 101496,
+    "name": "AROOSA SHAHBAZ",
+    "fatherName": "SHAHBAZ KHALID"
+  },
+  {
+    "rollNumber": 101498,
+    "name": "AMINA SADDIQUE",
+    "fatherName": "MUHAMMAD SADDIQUE"
+  },
+  {
+    "rollNumber": 101499,
+    "name": "NIDA SATTAR",
+    "fatherName": "ABDUL SATTAR"
+  },
+  {
+    "rollNumber": 101500,
+    "name": "MISBAH ZAWAR",
+    "fatherName": "MUHAMMAD ZAWAR"
+  },
+  {
+    "rollNumber": 101501,
+    "name": "GHULAM FATIMA",
+    "fatherName": "BAKIR KHAN"
+  },
+  {
+    "rollNumber": 101502,
+    "name": "FIZA BASHARAT RAO",
+    "fatherName": "RAO BASHARAT ALI TAHIR"
+  },
+  {
+    "rollNumber": 101503,
+    "name": "AYESHA BASHIR",
+    "fatherName": "BASHIR AHMED"
+  },
+  {
+    "rollNumber": 101504,
+    "name": "RUBAB FATIMA",
+    "fatherName": "IFTIKHAR AHMAD"
+  },
+  {
+    "rollNumber": 101505,
+    "name": "MUTIBA",
+    "fatherName": "ASGHAR ALI"
+  },
+  {
+    "rollNumber": 101506,
+    "name": "SIDRA SHAREEF",
+    "fatherName": "MUHAMMAD SHAREEF"
+  },
+  {
+    "rollNumber": 101507,
+    "name": "AFSHAN BIBI",
+    "fatherName": "MUHAMMAD HANIF"
+  },
+  {
+    "rollNumber": 101508,
+    "name": "AZWA HASSAN",
+    "fatherName": "SHER HASSAN RIZVI"
+  },
+  {
+    "rollNumber": 101509,
+    "name": "JAVERIA IFTIKHAR",
+    "fatherName": "MUHAMMAD IFTIKHAR"
+  },
+  {
+    "rollNumber": 101510,
+    "name": "ZUNAIRA BIBI",
+    "fatherName": "ABDUL REHMAN"
+  },
+  {
+    "rollNumber": 101511,
+    "name": "RAMEESHA SHAHID",
+    "fatherName": "SHAHID YAQOOB"
+  },
+  {
+    "rollNumber": 101512,
+    "name": "ANAM SHAHZADI",
+    "fatherName": "AMAN ULLAH"
+  },
+  {
+    "rollNumber": 101513,
+    "name": "SHIZA BIBI",
+    "fatherName": "ASLAM"
+  },
+  {
+    "rollNumber": 101514,
+    "name": "NIMRA MUSHTAQ",
+    "fatherName": "MUSHTAQ HUSSAIN"
+  },
+  {
+    "rollNumber": 101515,
+    "name": "KHADIJA FATIMA",
+    "fatherName": "JAVAID HUSSAIN"
+  },
+  {
+    "rollNumber": 101516,
+    "name": "SAEED UNNISA",
+    "fatherName": "MUHAMMAD ASHRAF"
+  },
+  {
+    "rollNumber": 101517,
+    "name": "ALISHBA KHALID",
+    "fatherName": "KHALID MEHMOOD"
+  },
+  {
+    "rollNumber": 101518,
+    "name": "ZULAIKHA MANZOOR",
+    "fatherName": "MANZOOR HUSSAIN"
+  },
+  {
+    "rollNumber": 101519,
+    "name": "ARFA MUQADDAS",
+    "fatherName": "MUSHTAQ AHMAD"
+  },
+  {
+    "rollNumber": 101520,
+    "name": "MARYAM ATEEQUE",
+    "fatherName": "MUHMMAD ATEEQUE"
+  },
+  {
+    "rollNumber": 101521,
+    "name": "NADIA ABBAS",
+    "fatherName": "MUHAMMAD ABBAS"
+  },
+  {
+    "rollNumber": 101523,
+    "name": "KASHAF NAZ",
+    "fatherName": "GHULAM MURTAZA"
+  },
+  {
+    "rollNumber": 101524,
+    "name": "ROMAISA IQBAL",
+    "fatherName": "MUHAMMAD IQBAL"
+  },
+  {
+    "rollNumber": 101525,
+    "name": "BAKHTAWAR SALEEM",
+    "fatherName": "MUHAMMAD SALEEM SHAHID"
+  },
+  {
+    "rollNumber": 101526,
+    "name": "RIMSHA LATIF",
+    "fatherName": "MUHAMMAD LATIF"
+  },
+  {
+    "rollNumber": 101527,
+    "name": "SHAISTA BIBI",
+    "fatherName": "FARZAND ALI"
+  },
+  {
+    "rollNumber": 101528,
+    "name": "AQSA RAMZAN",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101529,
+    "name": "LAIBA ANWAR",
+    "fatherName": "RANA MUHAMMAD ANWAR"
+  },
+  {
+    "rollNumber": 101531,
+    "name": "EMAN FATIMA",
+    "fatherName": "MIRZA MUHAMMAD NAEEM AZIZ"
+  },
+  {
+    "rollNumber": 101532,
+    "name": "KHADIJA BIBI",
+    "fatherName": "MUHAMMAD ASLAM"
+  },
+  {
+    "rollNumber": 101533,
+    "name": "AMNA RAFIQUE",
+    "fatherName": "MUHAMMAD RAFIQUE"
+  },
+  {
+    "rollNumber": 101534,
+    "name": "AYESHA ALTAF",
+    "fatherName": "ALTAF HUSSAIN"
+  },
+  {
+    "rollNumber": 101535,
+    "name": "HUMAIRA IRSHAD",
+    "fatherName": "MUHAMMAD IRSHAD"
+  },
+  {
+    "rollNumber": 101536,
+    "name": "LAIBA",
+    "fatherName": "MUHAMMAD RAMZAN"
+  },
+  {
+    "rollNumber": 101537,
+    "name": "MARIA RUSTAM",
+    "fatherName": "RUSTAM ALI"
+  },
+  {
+    "rollNumber": 101538,
+    "name": "ESHA MANSHA",
+    "fatherName": "MUHAMMAD MANSHA"
+  },
+  {
+    "rollNumber": 101539,
+    "name": "DILROBA",
+    "fatherName": "ALLAH BAKHSH"
+  },
+  {
+    "rollNumber": 101540,
+    "name": "MISBAH BIBI",
+    "fatherName": "SHAHNWAZ"
+  },
+  {
+    "rollNumber": 101541,
+    "name": "ZAHRA FARID",
+    "fatherName": "MAZHAR FARID"
+  },
+  {
+    "rollNumber": 101542,
+    "name": "FAZILAT HANIF",
+    "fatherName": "MUHAMMAD HANIF"
+  },
+  {
+    "rollNumber": 101543,
+    "name": "AYESHA JAVAID",
+    "fatherName": "MUHAMMAD JAVAID"
+  },
+  {
+    "rollNumber": 101544,
+    "name": "NIDA PARVEEN",
+    "fatherName": "MUHAMMAD SHAFIQ"
+  },
+  {
+    "rollNumber": 101545,
+    "name": "ESHA ARSHAD",
+    "fatherName": "MUHAMMAD ARSHAD"
+  },
+  {
+    "rollNumber": 101546,
+    "name": "KINYAT ZAHID",
+    "fatherName": "ZAHID IQBAL"
+  },
+  {
+    "rollNumber": 101547,
+    "name": "MEHREEN",
+    "fatherName": "MAQBOOL AHMAD"
+  },
+  {
+    "rollNumber": 101548,
+    "name": "SADIA JUNG SHER",
+    "fatherName": "JUNG SHER AHMAD"
+  },
+  {
+    "rollNumber": 101549,
+    "name": "LAIBA AKBAR",
+    "fatherName": "MUHAMMAD AKBAR"
+  },
+  {
+    "rollNumber": 101550,
+    "name": "ASIA ALLAH DITTA",
+    "fatherName": "ALLAH DITTA"
+  },
+  {
+    "rollNumber": 101551,
+    "name": "UZMA NASEEM",
+    "fatherName": "KHUSHAL HUSSAIN BABAR"
+  },
+  {
+    "rollNumber": 101552,
+    "name": "ALIZA FATIMA",
+    "fatherName": "WAQAS AHMAD"
+  },
+  {
+    "rollNumber": 101553,
+    "name": "SHUMAILA MUNAWAR",
+    "fatherName": "MUNAWAR HUSSAIN"
+  },
+  {
+    "rollNumber": 101554,
+    "name": "MUNIBA LATIF",
+    "fatherName": "LATIF AHMED"
+  },
+  {
+    "rollNumber": 101555,
+    "name": "BANO BIBI",
+    "fatherName": "MUHAMMAD RAFIQ"
+  },
+  {
+    "rollNumber": 101556,
+    "name": "TAYYIBA MAQBOOL",
+    "fatherName": "MAQBOOL QADIR"
+  },
+  {
+    "rollNumber": 101557,
+    "name": "KIRAN SHEHZADI",
+    "fatherName": "HAKIM ALI"
+  },
+  {
+    "rollNumber": 101558,
+    "name": "KAINAT FATIMA",
+    "fatherName": "KHUDA BAKSH"
+  },
+  {
+    "rollNumber": 101559,
+    "name": "IQRA LIAQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 101560,
+    "name": "HAFSA EMAN",
+    "fatherName": "NAZIM ALI"
+  },
+  {
+    "rollNumber": 101561,
+    "name": "UMME HIFZA",
+    "fatherName": "SHAKEEL AHMED"
+  },
+  {
+    "rollNumber": 101562,
+    "name": "MEHWISH BIBI",
+    "fatherName": "MUHAMMAD YOUSAF"
+  },
+  {
+    "rollNumber": 101563,
+    "name": "SANA LIQAT",
+    "fatherName": "LIAQAT ALI"
+  },
+  {
+    "rollNumber": 101564,
+    "name": "MEHWISH MUSHTAQ",
+    "fatherName": "MUHAMMAD MUSHTAQ"
+  },
+  {
+    "rollNumber": 101565,
+    "name": "KHIIZRA RIAZ",
+    "fatherName": "MUHAMMAD RIAZ"
+  },
+  {
+    "rollNumber": 101566,
+    "name": "ANSA",
+    "fatherName": "ALI HUSSAIN"
+  }
+]
